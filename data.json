@@ -1,47 +1,36 @@
 [
  {
-  "deadline": "2026-09-06T20:00:00+09:00",
-  "has_time": true,
-  "start": "2026-09-01T10:00:00+09:00",
-  "product": "ポケカ MEGA 拡張パック「30th CELEBRATION」1BOX",
-  "store": "TSUTAYA Trading Card 北千住",
-  "kind": "抽選",
-  "receipt": "店頭受取",
-  "url": "https://livepocket.jp/e/57crh",
-  "platform": "LivePocket"
- },
- {
-  "deadline": "2026-09-06T20:00:00+09:00",
-  "has_time": true,
-  "start": "2026-09-01T10:00:00+09:00",
-  "product": "ポケカ MEGA「30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー」1個",
-  "store": "TSUTAYA Trading Card 北千住",
-  "kind": "抽選",
-  "receipt": "店頭受取",
-  "url": "https://livepocket.jp/e/kg5gv",
-  "platform": "LivePocket"
- },
- {
-  "deadline": "2026-09-06T20:00:00+09:00",
-  "has_time": true,
-  "start": "2026-08-31T23:59:00+09:00",
-  "product": "DBFW 新弾 ブースターパック「BRIGHTNESS OF HOPE【FB-11】」1BOX",
-  "store": "TSUTAYA Trading Card 北千住",
-  "kind": "抽選",
-  "receipt": "店頭受取",
-  "url": "https://livepocket.jp/e/zxqfe",
-  "platform": "LivePocket"
- },
- {
-  "deadline": "2026-09-07T00:00:00+09:00",
+  "deadline": "2026-09-07T20:59:00+09:00",
   "has_time": true,
   "start": null,
-  "product": "ポケカ MEGA 拡張パック「30th CELEBRATION」1BOX ×4店",
-  "store": "ドラゴンスター メンバーサービス",
+  "product": "ポケカ MEGA 拡張パック「30th CELEBRATION」1BOX",
+  "store": "WonderGOO",
   "kind": "抽選",
   "receipt": "店頭受取",
-  "url": "https://dorasuta.membercard.jp/lottery",
-  "platform": "dorasuta.membercard.jp"
+  "url": "https://customform.jp/form/input/254068",
+  "platform": "customform.jp"
+ },
+ {
+  "deadline": "2026-09-07T20:59:00+09:00",
+  "has_time": true,
+  "start": null,
+  "product": "ポケカ MEGA 「30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー」",
+  "store": "WonderGOO",
+  "kind": "抽選",
+  "receipt": "店頭受取",
+  "url": "https://customform.jp/form/input/254078",
+  "platform": "customform.jp"
+ },
+ {
+  "deadline": "2026-09-07T23:00:00+09:00",
+  "has_time": true,
+  "start": null,
+  "product": "ポケカ「ポケモンカード151」未開封BOX シュリンク付き",
+  "store": "TCG SUCH",
+  "kind": "抽選",
+  "receipt": "配送あり",
+  "url": "https://shop.tcgsuch.com/items/156244438",
+  "platform": "shop.tcgsuch.com"
  },
  {
   "deadline": "2026-09-07T23:59:00+09:00",
@@ -53,6 +42,17 @@
   "receipt": "配送あり",
   "url": "https://ka-nabell.com/ec/sell/pokemon/topics/zvh8m-fdns",
   "platform": "ka-nabell.com"
+ },
+ {
+  "deadline": "2026-09-08T21:00:00+09:00",
+  "has_time": true,
+  "start": "2026-09-06T10:30:00+09:00",
+  "product": "ワンピカ ブースターパック 再入荷『受け継がれる意志』1BOX",
+  "store": "TSUTAYA TRADING CARD 錦糸町",
+  "kind": "抽選",
+  "receipt": "店頭受取",
+  "url": "https://livepocket.jp/e/5klcm",
+  "platform": "LivePocket"
  },
  {
   "deadline": "2026-09-08T23:59:00+09:00",
@@ -88,6 +88,17 @@
   "platform": "Googleフォーム"
  },
  {
+  "deadline": "2026-09-10T23:00:00+09:00",
+  "has_time": true,
+  "start": "2026-09-07T07:00:00+09:00",
+  "product": "ポケカ MEGA 拡張パック「ストームエメラルダ」未開封BOX シュリンク付き",
+  "store": "TCG SUCH",
+  "kind": "抽選",
+  "receipt": "配送あり",
+  "url": "https://shop.tcgsuch.com/items/156552749",
+  "platform": "shop.tcgsuch.com"
+ },
+ {
   "deadline": "2026-09-10T23:59:00+09:00",
   "has_time": true,
   "start": "2026-09-04T13:23:00+09:00",
@@ -118,6 +129,39 @@
   "kind": "抽選",
   "receipt": "受取方法は公式で確認",
   "url": "https://livepocket.jp/e/dk6jf",
+  "platform": "LivePocket"
+ },
+ {
+  "deadline": "2026-09-12T23:59:00+09:00",
+  "has_time": true,
+  "start": "2026-09-06T23:59:00+09:00",
+  "product": "ポケカ 【MEGA】拡張パック「ストームエメラルダ」 1BOX",
+  "store": "晴れる屋2 秋葉原タワー店",
+  "kind": "抽選",
+  "receipt": "店頭受取",
+  "url": "https://livepocket.jp/e/x0-n4",
+  "platform": "LivePocket"
+ },
+ {
+  "deadline": "2026-09-12T23:59:00+09:00",
+  "has_time": true,
+  "start": "2026-09-06T23:59:00+09:00",
+  "product": "ポケカ 【MEGA】拡張パック「メガシンフォニア」 1BOX",
+  "store": "晴れる屋2 秋葉原タワー店",
+  "kind": "抽選",
+  "receipt": "店頭受取",
+  "url": "https://livepocket.jp/e/cgjrf",
+  "platform": "LivePocket"
+ },
+ {
+  "deadline": "2026-09-12T23:59:00+09:00",
+  "has_time": true,
+  "start": "2026-09-06T23:59:00+09:00",
+  "product": "ポケカ 【MEGA】拡張パック「メガブレイブ」 1BOX",
+  "store": "晴れる屋2 秋葉原タワー店",
+  "kind": "抽選",
+  "receipt": "店頭受取",
+  "url": "https://livepocket.jp/e/9bgk1",
   "platform": "LivePocket"
  },
  {
