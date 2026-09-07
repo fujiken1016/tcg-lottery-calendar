@@ -1,51 +1,15 @@
 [
  {
-  "deadline": "2026-09-07T20:59:00+09:00",
+  "deadline": "2026-09-08T21:00:00+09:00",
   "has_time": true,
-  "start": null,
-  "product": "ポケカ MEGA 拡張パック「30th CELEBRATION」1BOX",
-  "store": "WonderGOO",
+  "start": "2026-09-04T18:15:00+09:00",
+  "product": "ワンピカ ブースターパック 再入荷『蒼海の七傑』【OP-14】1BOX",
+  "store": "TSUTAYA TRADING CARD 錦糸町",
   "kind": "抽選",
   "receipt": "店頭受取",
-  "url": "https://customform.jp/form/input/254068",
-  "platform": "customform.jp",
-  "path": "c/wondergoo/ポケカ-mega-拡張パック-30th-celebration-1box-b7e857"
- },
- {
-  "deadline": "2026-09-07T20:59:00+09:00",
-  "has_time": true,
-  "start": null,
-  "product": "ポケカ MEGA 「30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー」",
-  "store": "WonderGOO",
-  "kind": "抽選",
-  "receipt": "店頭受取",
-  "url": "https://customform.jp/form/input/254078",
-  "platform": "customform.jp",
-  "path": "c/wondergoo/ポケカ-mega-30th-celebration-プレミアムデッキセット-エー-084c30"
- },
- {
-  "deadline": "2026-09-07T23:00:00+09:00",
-  "has_time": true,
-  "start": null,
-  "product": "ポケカ「ポケモンカード151」未開封BOX シュリンク付き",
-  "store": "TCG SUCH",
-  "kind": "抽選",
-  "receipt": "配送あり",
-  "url": "https://shop.tcgsuch.com/items/156244438",
-  "platform": "shop.tcgsuch.com",
-  "path": "c/tcg-such/ポケカ-ポケモンカード151-未開封box-シュリンク付き-96a962"
- },
- {
-  "deadline": "2026-09-07T23:59:00+09:00",
-  "has_time": true,
-  "start": null,
-  "product": "ポケカ MEGA「30th CELEBRATION」BOX",
-  "store": "カーナベル",
-  "kind": "抽選",
-  "receipt": "配送あり",
-  "url": "https://www.ka-nabell.com/ec/sell/pokemon/topics/zvh8m-fdns",
-  "platform": "ka-nabell.com",
-  "path": "c/カーナベル/ポケカ-mega-30th-celebration-box-ced22a"
+  "url": "https://livepocket.jp/e/qxjrv",
+  "platform": "LivePocket",
+  "path": "c/tsutaya-trading-card-錦糸町/ワンピカ-ブースターパック-再入荷-蒼海の七傑-op-14-1box-41a0dc"
  },
  {
   "deadline": "2026-09-08T21:00:00+09:00",
@@ -58,6 +22,30 @@
   "url": "https://livepocket.jp/e/5klcm",
   "platform": "LivePocket",
   "path": "c/tsutaya-trading-card-錦糸町/ワンピカ-ブースターパック-再入荷-受け継がれる意志-1box-860cf7"
+ },
+ {
+  "deadline": "2026-09-08T22:00:00+09:00",
+  "has_time": true,
+  "start": "2026-09-05T14:54:00+09:00",
+  "product": "ポケカ MEGA 拡張パック「メガシンフォニア」1BOX",
+  "store": "古本市場 竹の塚店",
+  "kind": "抽選",
+  "receipt": "店頭受取",
+  "url": "https://livepocket.jp/e/dgtb5",
+  "platform": "LivePocket",
+  "path": "c/古本市場-竹の塚店/ポケカ-mega-拡張パック-メガシンフォニア-1box-b5e043"
+ },
+ {
+  "deadline": "2026-09-08T22:00:00+09:00",
+  "has_time": true,
+  "start": "2026-09-05T14:49:00+09:00",
+  "product": "ポケカ MEGA 拡張パック「メガブレイブ」1BOX",
+  "store": "古本市場 竹の塚店",
+  "kind": "抽選",
+  "receipt": "店頭受取",
+  "url": "https://livepocket.jp/e/3pls7",
+  "platform": "LivePocket",
+  "path": "c/古本市場-竹の塚店/ポケカ-mega-拡張パック-メガブレイブ-1box-c72d46"
  },
  {
   "deadline": "2026-09-08T23:59:00+09:00",
@@ -298,6 +286,18 @@
   "url": "https://hobibinet-pokemon.com/",
   "platform": "hobibinet-pokemon.com",
   "path": "c/ホビビ通販部/ポケカ-30th-celebration-box-30th-celebratio-698f85"
+ },
+ {
+  "deadline": "2026-09-14T23:59:00+09:00",
+  "has_time": true,
+  "start": "2026-09-07T23:59:00+09:00",
+  "product": "ポケカ MEGA 拡張パック「30th CELEBRATION」1BOX",
+  "store": "カーデリア池袋店",
+  "kind": "抽選",
+  "receipt": "店頭受取",
+  "url": "https://docs.google.com/forms/d/e/1FAIpQLSddjKAX4FnajSKmnIwnsY4Bgz8RLYV58jRBsuG_4YrVRiMHSg/viewform",
+  "platform": "Googleフォーム",
+  "path": "c/カーデリア池袋店/ポケカ-mega-拡張パック-30th-celebration-1box-357d60"
  },
  {
   "deadline": "2026-09-15T23:59:00+09:00",
