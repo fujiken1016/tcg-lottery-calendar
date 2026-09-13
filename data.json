@@ -1,27 +1,27 @@
 [
  {
-  "deadline": "2026-09-14T20:00:00+09:00",
+  "deadline": "2026-09-15T12:00:00+09:00",
   "has_time": true,
-  "start": "2026-09-08T23:59:00+09:00",
-  "product": "ポケカ MEGA ①拡張パック「30th CELEBRATION」1BOX ／ ②「30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー」",
-  "store": "ミント渋谷店",
+  "start": "2026-09-11T23:59:00+09:00",
+  "product": "ワンピカ ブースターパック「世界最強の戦士【OP-17】」1BOX ＋送料【特典付き】",
+  "store": "Tokyo Otaku Mode",
   "kind": "抽選",
-  "receipt": "店頭受取",
-  "url": "https://docs.google.com/forms/d/e/1FAIpQLSewvHG4-6V0wY-n5hRZeG3y8bMiEeeJ9RS0qfyATNu-03GzEw/viewform",
-  "platform": "Googleフォーム",
-  "path": "c/ミント渋谷店/ポケカ-mega-拡張パック-30th-celebration-1box-30t-3e0261"
+  "receipt": "配送あり",
+  "url": "https://ja.otakumode.com/pages/onepiece-cardgame-raffle-260911",
+  "platform": "ja.otakumode.com",
+  "path": "c/tokyo-otaku-mode/ワンピカ-ブースターパック-世界最強の戦士-op-17-1box-送料-特典付き-c65aac"
  },
  {
-  "deadline": "2026-09-14T23:59:00+09:00",
+  "deadline": "2026-09-15T21:30:00+09:00",
   "has_time": true,
-  "start": "2026-09-07T23:59:00+09:00",
-  "product": "ポケカ MEGA 拡張パック「30th CELEBRATION」1BOX",
-  "store": "カーデリア池袋店",
+  "start": "2026-09-13T21:30:00+09:00",
+  "product": "ワンピカ 再販4種 BOX 各",
+  "store": "ヤマシロヤ オンライン",
   "kind": "抽選",
-  "receipt": "店頭受取",
-  "url": "https://docs.google.com/forms/d/e/1FAIpQLSddjKAX4FnajSKmnIwnsY4Bgz8RLYV58jRBsuG_4YrVRiMHSg/viewform",
+  "receipt": "配送あり",
+  "url": "https://docs.google.com/forms/d/e/1FAIpQLScz3BSdWvcrxULvcHflbfFQ7OtwIV5PSyzNC4ZxzeY6-GdFEA/viewform",
   "platform": "Googleフォーム",
-  "path": "c/カーデリア池袋店/ポケカ-mega-拡張パック-30th-celebration-1box-357d60"
+  "path": "c/ヤマシロヤ-オンライン/ワンピカ-再販4種-box-各-4bb28a"
  },
  {
   "deadline": "2026-09-15T23:59:00+09:00",
@@ -58,6 +58,18 @@
   "url": "https://docs.google.com/forms/d/e/1FAIpQLSc5X0ORTqWPOy60kc_BQJOeQsLl1Q6u_vqji2mH-3HBllL9zQ/viewform",
   "platform": "Googleフォーム",
   "path": "c/カーデリア池袋店/dbfw-ブースターパック-brightness-of-hope-fb11-1b-aaae08"
+ },
+ {
+  "deadline": "2026-09-17T23:00:00+09:00",
+  "has_time": true,
+  "start": "2026-09-11T11:00:00+09:00",
+  "product": "DBFW ブースターパック「BRIGHTNESS OF HOPE【FB11】」1BOX",
+  "store": "プレミアムバンダイ",
+  "kind": "抽選",
+  "receipt": "配送あり",
+  "url": "https://p-bandai.jp/item/item-1000257587/",
+  "platform": "プレミアムバンダイ",
+  "path": "c/プレミアムバンダイ/dbfw-ブースターパック-brightness-of-hope-fb11-1b-a6d40e"
  },
  {
   "deadline": "2026-09-18T09:59:00+09:00",
@@ -106,6 +118,18 @@
   "url": "https://konamistyle.jp",
   "platform": "konamistyle.jp",
   "path": "c/コナミスタイル/遊戯王-コナミスタイル抽選販売-7商品-400591"
+ },
+ {
+  "deadline": "2026-09-25T18:00:00+09:00",
+  "has_time": true,
+  "start": null,
+  "product": "遊戯王OCG「ORIGINAL ARTWORK COLLECTION」1BOX",
+  "store": "福福トレカ秋葉原店",
+  "kind": "抽選",
+  "receipt": "受取方法は公式で確認",
+  "url": "https://docs.google.com/forms/d/e/1FAIpQLScN_CJK8oh2EZjgiGloS_VBK3vzn_tupZHjEVfIw8pC7BgBUg/viewform",
+  "platform": "Googleフォーム",
+  "path": "c/福福トレカ秋葉原店/遊戯王ocg-original-artwork-collection-1box-d0f130"
  },
  {
   "deadline": "2026-09-30T23:59:00+09:00",

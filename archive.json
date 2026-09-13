@@ -143,6 +143,18 @@
   "store": "TCG SUCH",
   "url": "https://shop.tcgsuch.com/items/156244438"
  },
+ "c/tokyo-otaku-mode/ワンピカ-ブースターパック-世界最強の戦士-op-17-1box-送料-特典付き-c65aac": {
+  "product": "ワンピカ ブースターパック「世界最強の戦士【OP-17】」1BOX ＋送料【特典付き】",
+  "store": "Tokyo Otaku Mode",
+  "kind": "抽選",
+  "receipt": "配送あり",
+  "platform": "ja.otakumode.com",
+  "url": "https://ja.otakumode.com/pages/onepiece-cardgame-raffle-260911",
+  "has_time": true,
+  "deadline": "2026-09-15T12:00:00+09:00",
+  "start": "2026-09-11T23:59:00+09:00",
+  "last_seen": "2026-09-14"
+ },
  "c/tsutaya-trading-card-錦糸町/ワンピカ-ブースターパック-再入荷-受け継がれる意志-1box-860cf7": {
   "deadline": "2026-09-08T21:00:00+09:00",
   "has_time": true,
@@ -383,6 +395,18 @@
   "store": "フルコンプ",
   "url": "https://livepocket.jp/e/dk6jf"
  },
+ "c/プレミアムバンダイ/dbfw-ブースターパック-brightness-of-hope-fb11-1b-a6d40e": {
+  "product": "DBFW ブースターパック「BRIGHTNESS OF HOPE【FB11】」1BOX",
+  "store": "プレミアムバンダイ",
+  "kind": "抽選",
+  "receipt": "配送あり",
+  "platform": "プレミアムバンダイ",
+  "url": "https://p-bandai.jp/item/item-1000257587/",
+  "has_time": true,
+  "deadline": "2026-09-17T23:00:00+09:00",
+  "start": "2026-09-11T11:00:00+09:00",
+  "last_seen": "2026-09-14"
+ },
  "c/プレミアムバンダイ/ワンピカ-luffy-s-商品-258404": {
   "product": "ワンピカ「LUFFY's」商品",
   "store": "プレミアムバンダイ",
@@ -465,6 +489,18 @@
   "has_time": true,
   "deadline": "2026-09-14T20:00:00+09:00",
   "start": "2026-09-08T23:59:00+09:00",
+  "last_seen": "2026-09-14"
+ },
+ "c/ヤマシロヤ-オンライン/ワンピカ-再販4種-box-各-4bb28a": {
+  "product": "ワンピカ 再販4種 BOX 各",
+  "store": "ヤマシロヤ オンライン",
+  "kind": "抽選",
+  "receipt": "配送あり",
+  "platform": "Googleフォーム",
+  "url": "https://docs.google.com/forms/d/e/1FAIpQLScz3BSdWvcrxULvcHflbfFQ7OtwIV5PSyzNC4ZxzeY6-GdFEA/viewform",
+  "has_time": true,
+  "deadline": "2026-09-15T21:30:00+09:00",
+  "start": "2026-09-13T21:30:00+09:00",
   "last_seen": "2026-09-14"
  },
  "c/古本市場-竹の塚店/ポケカ-mega-拡張パック-メガシンフォニア-1box-b5e043": {
@@ -585,6 +621,18 @@
   "has_time": true,
   "deadline": "2026-09-18T09:59:00+09:00",
   "start": "2026-09-14T10:00:00+09:00",
+  "last_seen": "2026-09-14"
+ },
+ "c/福福トレカ秋葉原店/遊戯王ocg-original-artwork-collection-1box-d0f130": {
+  "product": "遊戯王OCG「ORIGINAL ARTWORK COLLECTION」1BOX",
+  "store": "福福トレカ秋葉原店",
+  "kind": "抽選",
+  "receipt": "受取方法は公式で確認",
+  "platform": "Googleフォーム",
+  "url": "https://docs.google.com/forms/d/e/1FAIpQLScN_CJK8oh2EZjgiGloS_VBK3vzn_tupZHjEVfIw8pC7BgBUg/viewform",
+  "has_time": true,
+  "deadline": "2026-09-25T18:00:00+09:00",
+  "start": null,
   "last_seen": "2026-09-14"
  },
  "c/竜星のpao池袋店/ポケカ-30th-celebration-カードセット-御三家-a37357": {
