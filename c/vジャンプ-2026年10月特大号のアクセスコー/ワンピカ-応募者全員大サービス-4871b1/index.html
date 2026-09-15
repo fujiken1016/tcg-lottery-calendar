@@ -11,7 +11,7 @@
 <meta property="og:title" content="ワンピカ「応募者全員大サービス」｜Vジャンプ 2026年10月特大号のアクセスコードで応募の抽選（締切 9/24(木)）">
 <meta property="og:description" content="Vジャンプ 2026年10月特大号のアクセスコードで応募の「ワンピカ「応募者全員大サービス」」応募者全員。締切 9/24(木)　16:59 JST／受取方法は公式で確認。応募条件は公式ページで確認してください。">
 <meta property="og:url" content="https://fujiken1016.github.io/tcg-lottery-calendar/c/v%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97-2026%E5%B9%B410%E6%9C%88%E7%89%B9%E5%A4%A7%E5%8F%B7%E3%81%AE%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%82%B3%E3%83%BC/%E3%83%AF%E3%83%B3%E3%83%94%E3%82%AB-%E5%BF%9C%E5%8B%9F%E8%80%85%E5%85%A8%E5%93%A1%E5%A4%A7%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9-4871b1/">
-<meta name="generated" content="2026-09-15T08:44+09:00">
+<meta name="generated" content="2026-09-16T08:52+09:00">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-XRJ40EFR6C"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -40,8 +40,8 @@ body{margin:0;background:var(--bg);color:var(--text);font-family:var(--font-sans
 .wrap{max-width:680px;margin:0 auto;padding:0 var(--sp-4)}
 header.site{background:var(--surface);border-bottom:1px solid var(--line)}
 .brand{display:flex;align-items:center;min-height:48px;font-size:var(--fs-sm);letter-spacing:.06em;color:var(--accent);font-weight:700}
-h1{font-size:var(--fs-h1);line-height:var(--lh-display);color:var(--text-strong);font-weight:700;margin:var(--sp-6) 0 var(--sp-3)}
-h2{font-size:var(--fs-h2);line-height:var(--lh-tight);color:var(--text-strong);font-weight:700;margin:var(--sp-8) 0 var(--sp-3);padding-bottom:var(--sp-2);border-bottom:2px solid var(--accent)}
+h1{font-size:var(--fs-h1);line-height:var(--lh-display);color:var(--text-strong);font-weight:700;margin:var(--sp-6) 0 var(--sp-3);word-break:auto-phrase}  /* 2026-09-16: 375px実測で詳細ページの題名が「拡張パ／ック」と語の途中で折れていた（h3 にだけ auto-phrase が入っていた）。typography_probe は data-budoux の要素しか語中改行を判定しないので検査は素通りしていた＝目視で見つけた */
+h2{font-size:var(--fs-h2);line-height:var(--lh-tight);color:var(--text-strong);font-weight:700;margin:var(--sp-8) 0 var(--sp-3);padding-bottom:var(--sp-2);border-bottom:2px solid var(--accent);word-break:auto-phrase}  /* 2026-09-16: h1 と同じ理由。日本語の見出しは全部 文節境界で折る */
 h3{font-size:var(--fs-h3);line-height:var(--lh-tight);color:var(--text-strong);font-weight:700;margin:var(--sp-3) 0 var(--sp-2);word-break:auto-phrase;text-wrap:balance}  /* 2026-09-13: balance は全幅で当てる（375px の「…7商品」16/3 が直る）。auto-phrase を先に入れてあるので語の途中では折れない */  /* 2026-09-10: 375px実測で商品名の最終行が2〜4文字だけ残る孤立を11件検出。文節境界で折り、最終行の孤立を避ける */
 p,ul{margin:0 0 var(--sp-p)}  /* 2026-09-10: 段落間隔16pxが本文19pxの1em未満だった（design_sweep） */ ul{padding-left:1.35em} li{margin:0 0 var(--sp-2)}
 .lead{font-size:var(--fs-lead)}
