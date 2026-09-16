@@ -11,7 +11,7 @@
 <meta property="og:title" content="ワンピカ ブースターパック「蒼海の七傑【OP-14】」1BOX｜ドラスタ通販の抽選（締切 9/18(金)）">
 <meta property="og:description" content="ドラスタ通販の「ワンピカ ブースターパック「蒼海の七傑【OP-14】」1BOX」抽選。締切 9/18(金)　00:00 JST／配送あり。応募条件は公式ページで確認してください。">
 <meta property="og:url" content="https://fujiken1016.github.io/tcg-lottery-calendar/c/%E3%83%89%E3%83%A9%E3%82%B9%E3%82%BF%E9%80%9A%E8%B2%A9/%E3%83%AF%E3%83%B3%E3%83%94%E3%82%AB-%E3%83%96%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%91%E3%83%83%E3%82%AF-%E8%92%BC%E6%B5%B7%E3%81%AE%E4%B8%83%E5%82%91-op-14-1box-ebce89/">
-<meta name="generated" content="2026-09-16T08:52+09:00">
+<meta name="generated" content="2026-09-17T08:48+09:00">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-XRJ40EFR6C"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -56,6 +56,7 @@ a{color:var(--accent)} a:focus-visible{outline:3px solid var(--focus);outline-of
 .ev{background:var(--surface);border:1px solid var(--line);border-radius:var(--r-lg);padding:var(--sp-4);margin:0 0 var(--sp-4);box-shadow:var(--shadow-sm)}
 .ev-date{font-size:var(--fs-sm);color:var(--text-muted);margin:0 0 var(--sp-1)}
 .ev-date b{color:var(--err);font-size:var(--fs-lead)}
+.nb{white-space:nowrap}  /* 2026-09-17: 【OP-14】等の型番を行末で割らない（h1 のみ・短い語だけ） */
 .ev-store{margin:0 0 var(--sp-3);word-break:auto-phrase}  /* 2026-09-08: 「ファミマオンライ／ン」の1文字孤立を375px実測で検出。文節境界で折る */
 .chips{display:flex;flex-wrap:wrap;gap:var(--sp-2);margin:0 0 var(--sp-3)}
 .chip{display:inline-flex;align-items:center;padding:var(--sp-1) var(--sp-3);border-radius:var(--r-sm);background:var(--surface-muted);color:var(--text);font-size:var(--fs-sm);border:1px solid var(--line)}
@@ -86,9 +87,20 @@ footer.site a{display:inline-flex;align-items:center;min-height:48px}
    「公式ページで応募条件を見る」が1文字だけ2行目に落ちる（typography_probe で30件）。
    狭い端末だけ題名を1段下げ（リードも一緒に下げて比 1.65倍を維持）、ボタンの左右padding を詰める。 */
 @media (max-width:360px){
-  :root{--fs-h1:1.75rem; --fs-lead:1.0625rem}
+  :root{--fs-h1:1.75rem; --fs-lead:1.0625rem; --fs-h3:1.1875rem}
   .btn,.btn-sub{padding:12px var(--sp-3)}
-  .kv th{width:5.25em}   /* 2026-09-13: 6.5em だと値の列が177pxで「CARD WINGS秋葉原駅前／店」と1字孤立。列をさらに詰める */
+}
+/* 2026-09-17: 375/320px実測で .kv の2列組みが破綻していた（th 8.5em → 値の列が194px で
+   「dorasuta.membercard.jp」がドメインの途中で折れ、締切「9/18(金) 00:00 JST」も2行）。
+   th の幅を詰めると今度は見出し側（「受付ページ」「店・サイト」）が2行になる＝2列では解が無い。
+   狭い端末では見出しを値の上に積む（値の幅が 194px → 295px になり、実測で 375/320 とも折れ 0 件）。
+   ⚠️ nowrap は 200%拡大で横にはみ出すので使わない（2026-09-10 の判断を維持）。 */
+@media (max-width:420px){
+  .kv,.kv tbody,.kv tr,.kv th,.kv td{display:block;width:auto}
+  .kv tr{border:1px solid var(--line);border-radius:var(--r-md);margin:0 0 var(--sp-2);overflow:hidden}
+  .kv th,.kv td{border:0;padding:var(--sp-2) var(--sp-3)}
+  .kv th{width:auto;font-size:var(--fs-sm)}
+  .kv td{padding-top:0}
 }
 </style>
 </head>
@@ -97,7 +109,7 @@ footer.site a{display:inline-flex;align-items:center;min-height:48px}
 <main class="wrap">
 
 <p class="crumb"><a href="https://fujiken1016.github.io/tcg-lottery-calendar/">← 抽選カレンダーに戻る</a></p>
-<h1>ワンピカ ブースターパック「蒼海の七傑【OP-14】」1BOX</h1>
+<h1>ワンピカ ブースターパック「蒼海の七傑<span class="nb">【OP-14】</span>」1BOX</h1>
 <p class="lead">ドラスタ通販の抽選です。応募条件・締切は必ず公式ページで確認してください。</p>
 <p class="meta"><span class="rest" id="rest" data-deadline="2026-09-18T00:00+09:00">締切 9/18(金)　00:00</span></p>
 <table class="kv"><tbody><tr><th scope="row">受付開始</th><td>9/15(火)　22:00〜</td></tr><tr><th scope="row">締切</th><td>9/18(金)　00:00 JST</td></tr><tr><th scope="row">店・サイト</th><td>ドラスタ通販</td></tr><tr><th scope="row">受付ページ</th><td>dorasuta.membercard.jp</td></tr><tr><th scope="row">種別</th><td>抽選</td></tr><tr><th scope="row">受取方法</th><td>配送あり</td></tr></tbody></table>
