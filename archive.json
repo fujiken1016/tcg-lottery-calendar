@@ -201,7 +201,7 @@
   "has_time": true,
   "deadline": "2026-09-24T16:59:00+09:00",
   "start": "2026-08-21T12:00:00+09:00",
-  "last_seen": "2026-09-17"
+  "last_seen": "2026-09-21"
  },
  "c/wondergoo-瑞江店/ポケカ-mega-30th-celebration-1box-プレミアムデッキセ-dcf077": {
   "deadline": "2026-09-13T23:59:00+09:00",
@@ -357,7 +357,7 @@
   "has_time": true,
   "deadline": "2026-09-24T23:59:00+09:00",
   "start": null,
-  "last_seen": "2026-09-17"
+  "last_seen": "2026-09-21"
  },
  "c/コナミスタイル/遊戯王ocg-complete-file-罪宝狩りの悪魔-1人3個まで-679b5c": {
   "product": "遊戯王OCG「COMPLETE FILE －罪宝狩りの悪魔－」・1人3個まで",
@@ -369,7 +369,7 @@
   "has_time": true,
   "deadline": "2026-10-19T23:59:00+09:00",
   "start": "2026-09-15T11:00:00+09:00",
-  "last_seen": "2026-09-17"
+  "last_seen": "2026-09-21"
  },
  "c/ティアワン渋谷店/dbfw-新弾-brightness-of-hope-fb11-1box-9f36c2": {
   "deadline": "2026-09-09T23:59:00+09:00",
@@ -394,6 +394,18 @@
   "start": "2026-09-04T15:01:00+09:00",
   "store": "ディセントゲーム新宿",
   "url": "https://forms.gle/2B9Ev797q5LWapV89"
+ },
+ "c/トレカプラザ55-通販店/ポケカ-30th-celebration-系-5品-ccd7b7": {
+  "product": "ポケカ 30th CELEBRATION 系 5品",
+  "store": "トレカプラザ55 通販店",
+  "kind": "抽選",
+  "receipt": "配送あり",
+  "platform": "torecaplaza55.com",
+  "url": "https://torecaplaza55.com/",
+  "has_time": true,
+  "deadline": "2026-09-25T23:59:00+09:00",
+  "start": null,
+  "last_seen": "2026-09-21"
  },
  "c/ドラスタ通販/ワンピカ-ブースターパック-蒼海の七傑-op-14-1box-ebce89": {
   "product": "ワンピカ ブースターパック「蒼海の七傑【OP-14】」1BOX",
@@ -429,7 +441,7 @@
   "has_time": true,
   "deadline": "2026-09-21T23:59:00+09:00",
   "start": "2026-09-15T10:00:00+09:00",
-  "last_seen": "2026-09-17"
+  "last_seen": "2026-09-21"
  },
  "c/フルコンプ/ポケカ-mega-3商品から-いずれか1つだけ-d86fdd": {
   "deadline": "2026-09-08T23:59:00+09:00",
@@ -477,7 +489,7 @@
   "has_time": false,
   "deadline": "2026-11-29T23:59:00+09:00",
   "start": "2026-10-02T23:59:00+09:00",
-  "last_seen": "2026-09-17"
+  "last_seen": "2026-09-21"
  },
  "c/ホビビ通販部/ポケカ-30th-celebration-box-30th-celebratio-698f85": {
   "deadline": "2026-09-13T23:59:00+09:00",
@@ -501,7 +513,7 @@
   "has_time": false,
   "deadline": "2026-10-31T23:59:00+09:00",
   "start": "2026-07-31T23:59:00+09:00",
-  "last_seen": "2026-09-17"
+  "last_seen": "2026-09-21"
  },
  "c/ポケモンセンターオンライン/ポケカ-30周年記念商品の-第3回-追加抽選販売-41905a": {
   "deadline": "2026-09-16T16:59:00+09:00",
@@ -597,7 +609,7 @@
   "has_time": true,
   "deadline": "2026-10-18T23:58:00+09:00",
   "start": "2026-09-18T13:00:00+09:00",
-  "last_seen": "2026-09-17"
+  "last_seen": "2026-09-21"
  },
  "c/新宿マルイ本館4階/one-piece-base-shop-入店予約抽選-eabe0d": {
   "product": "ONE PIECE BASE SHOP 入店予約抽選",
@@ -609,7 +621,7 @@
   "has_time": false,
   "deadline": "2026-09-30T23:59:00+09:00",
   "start": "2026-09-01T23:59:00+09:00",
-  "last_seen": "2026-09-17"
+  "last_seen": "2026-09-21"
  },
  "c/晴れる屋2-秋葉原タワー店/ポケカ-mega-拡張パック-ストームエメラルダ-1box-31a05e": {
   "deadline": "2026-09-12T23:59:00+09:00",
@@ -646,6 +658,18 @@
   "start": "2026-09-06T23:59:00+09:00",
   "store": "晴れる屋2 秋葉原タワー店",
   "url": "https://livepocket.jp/e/9bgk1"
+ },
+ "c/晴れる屋2-通販抽選販売/ポケカ-mega-拡張パック-ストームエメラルダ-1box-c444a8": {
+  "product": "ポケカ【MEGA】拡張パック「ストームエメラルダ」1BOX",
+  "store": "晴れる屋2 通販抽選販売",
+  "kind": "抽選",
+  "receipt": "配送あり",
+  "platform": "hareruya2.com",
+  "url": "https://www.hareruya2.com/pages/146654363968",
+  "has_time": true,
+  "deadline": "2026-09-30T17:00:00+09:00",
+  "start": null,
+  "last_seen": "2026-09-21"
  },
  "c/晴れる屋2/ポケカ-mega-30th-celebration-プレミアムデッキセット-エー-fe140d": {
   "deadline": "2026-09-12T23:59:00+09:00",
@@ -693,7 +717,7 @@
   "has_time": true,
   "deadline": "2026-09-25T18:00:00+09:00",
   "start": null,
-  "last_seen": "2026-09-17"
+  "last_seen": "2026-09-21"
  },
  "c/竜星のpao池袋店/ポケカ-30th-celebration-カードセット-御三家-a37357": {
   "product": "ポケカ「30th CELEBRATION カードセット」御三家",
@@ -705,7 +729,7 @@
   "has_time": true,
   "deadline": "2026-09-30T23:59:00+09:00",
   "start": "2026-09-01T00:00:00+09:00",
-  "last_seen": "2026-09-17"
+  "last_seen": "2026-09-21"
  },
  "c/竜星のpao池袋店/ポケカ-30th-celebration-カードセット-御三家-各-1adf33": {
   "deadline": "2026-09-30T23:59:00+09:00",
