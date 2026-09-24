@@ -11,7 +11,7 @@
 <meta property="og:title" content="ポケカ 【MEGA】拡張パック「メガシンフォニア」 1BOX｜晴れる屋2 秋葉原タワー店の抽選（受付終了・9/12(土)締切）">
 <meta property="og:description" content="晴れる屋2 秋葉原タワー店の「ポケカ 【MEGA】拡張パック「メガシンフォニア」 1BOX」抽選。締切 9/12(土)　23:59 JST／店頭受取。応募条件は公式ページで確認してください。この受付は終了しています。">
 <meta property="og:url" content="https://fujiken1016.github.io/tcg-lottery-calendar/c/%E6%99%B4%E3%82%8C%E3%82%8B%E5%B1%8B2-%E7%A7%8B%E8%91%89%E5%8E%9F%E3%82%BF%E3%83%AF%E3%83%BC%E5%BA%97/%E3%83%9D%E3%82%B1%E3%82%AB-mega-%E6%8B%A1%E5%BC%B5%E3%83%91%E3%83%83%E3%82%AF-%E3%83%A1%E3%82%AC%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2-1box-681c3e/">
-<meta name="generated" content="2026-09-24T10:59+09:00">
+<meta name="generated" content="2026-09-25T00:54+09:00">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-XRJ40EFR6C"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -87,7 +87,8 @@ footer.site a{display:inline-flex;align-items:center;min-height:48px}
    「公式ページで応募条件を見る」が1文字だけ2行目に落ちる（typography_probe で30件）。
    狭い端末だけ題名を1段下げ（リードも一緒に下げて比 1.65倍を維持）、ボタンの左右padding を詰める。 */
 @media (max-width:360px){
-  :root{--fs-h1:1.75rem; --fs-lead:1.0625rem; --fs-h3:1.1875rem}
+  /* 2026-09-25: 320px実測で h3/本文 が 1.118倍（design_sweep の基準1.2）で NG。19px→20.5px で 1.206倍。 */
+  :root{--fs-h1:1.75rem; --fs-lead:1.0625rem; --fs-h3:1.28125rem}
   .btn,.btn-sub{padding:12px var(--sp-3)}
 }
 /* 2026-09-17: 375/320px実測で .kv の2列組みが破綻していた（th 8.5em → 値の列が194px で

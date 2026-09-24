@@ -1,41 +1,5 @@
 [
  {
-  "deadline": "2026-09-24T16:59:00+09:00",
-  "has_time": true,
-  "start": "2026-08-21T12:00:00+09:00",
-  "product": "ワンピカ「応募者全員大サービス」",
-  "store": "Vジャンプ 2026年10月特大号のアクセスコードで応募",
-  "kind": "応募者全員",
-  "receipt": "受取方法は公式で確認",
-  "url": "https://vjump.shueisha.co.jp/nextinfo/n01_202610_01/",
-  "platform": "vjump.shueisha.co.jp",
-  "path": "c/vジャンプ-2026年10月特大号のアクセスコー/ワンピカ-応募者全員大サービス-4871b1"
- },
- {
-  "deadline": "2026-09-24T22:00:00+09:00",
-  "has_time": true,
-  "start": "2026-09-24T10:00:00+09:00",
-  "product": "ポケカ 3商品＝①MEGA 拡張パック「30th CELEBRATION」 ②「ストームエメラルダ」 ③「メガブレイブ」「メガシンフォニア」",
-  "store": "LivePocket",
-  "kind": "抽選",
-  "receipt": "配送あり",
-  "url": "https://livepocket.jp/e/h9d9h",
-  "platform": "LivePocket",
-  "path": "c/livepocket/ポケカ-3商品-mega-拡張パック-30th-celebration-ストーム-76d3b2"
- },
- {
-  "deadline": "2026-09-24T23:59:00+09:00",
-  "has_time": true,
-  "start": null,
-  "product": "ポケカ 2件＝①「ホワイトフレア」1BOX ②「ブラックボルト」1BOX",
-  "store": "福福トレカ ポケカ通販店",
-  "kind": "抽選",
-  "receipt": "配送あり",
-  "url": "https://pokemon.fukufukutoreka.com/lottery",
-  "platform": "pokemon.fukufukutoreka.com",
-  "path": "c/福福トレカ-ポケカ通販店/ポケカ-2件-ホワイトフレア-1box-ブラックボルト-1box-7e3b7a"
- },
- {
   "deadline": "2026-09-25T18:00:00+09:00",
   "has_time": true,
   "start": null,
@@ -58,6 +22,42 @@
   "url": "https://activity.carryme-app.com/retail111429/",
   "platform": "activity.carryme-app.com",
   "path": "c/carryme/ポケカ-30th-celebration-futuristic-box-1box-6ffce9"
+ },
+ {
+  "deadline": "2026-09-25T23:59:00+09:00",
+  "has_time": true,
+  "start": null,
+  "product": "遊戯王OCG「ORIGINAL ARTWORK COLLECTION」1BOX",
+  "store": "バトロコ池袋駅前店",
+  "kind": "抽選",
+  "receipt": "受取方法は公式で確認",
+  "url": "https://forms.gle/nR9edKRkmmTJXkBF8",
+  "platform": "forms.gle",
+  "path": "c/バトロコ池袋駅前店/遊戯王ocg-original-artwork-collection-1box-ea0e9f"
+ },
+ {
+  "deadline": "2026-09-27T20:00:00+09:00",
+  "has_time": true,
+  "start": "2026-09-25T10:00:00+09:00",
+  "product": "ポケカ 30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー",
+  "store": "LivePocket",
+  "kind": "抽選",
+  "receipt": "受取方法は公式で確認",
+  "url": "https://livepocket.jp/e/e7ec9",
+  "platform": "LivePocket",
+  "path": "c/livepocket/ポケカ-30th-celebration-プレミアムデッキセット-エーフィ-ブラ-9b2776"
+ },
+ {
+  "deadline": "2026-09-27T23:59:00+09:00",
+  "has_time": true,
+  "start": null,
+  "product": "ポケカ MEGA「30th CELEBRATION FUTURISTIC BOX」1BOX",
+  "store": "トレカショップ「DANDAN」BASE店",
+  "kind": "抽選",
+  "receipt": "受取方法は公式で確認",
+  "url": "https://gamesearch.base.ec/items/158883125",
+  "platform": "gamesearch.base.ec",
+  "path": "c/トレカショップ-dandan-base店/ポケカ-mega-30th-celebration-futuristic-box-b163e0"
  },
  {
   "deadline": "2026-09-27T23:59:00+09:00",
@@ -106,6 +106,18 @@
   "url": "https://one-piece.com/news/81954/index.html",
   "platform": "one-piece.com",
   "path": "c/新宿マルイ本館4階/one-piece-base-shop-入店予約抽選-eabe0d"
+ },
+ {
+  "deadline": "2026-10-02T23:00:00+09:00",
+  "has_time": true,
+  "start": "2026-09-24T12:00:00+09:00",
+  "product": "ワンピカ プレミアムカードコレクション -ONE PIECE DAY'26-【3次予約】",
+  "store": "プレミアムバンダイ",
+  "kind": "受注販売",
+  "receipt": "配送あり",
+  "url": "https://p-bandai.jp/item/item-1000257759/",
+  "platform": "プレミアムバンダイ",
+  "path": "c/プレミアムバンダイ/ワンピカ-プレミアムカードコレクション-one-piece-day-26-3次予-613a2c"
  },
  {
   "deadline": "2026-10-18T23:58:00+09:00",

@@ -11,7 +11,7 @@
 <meta property="og:title" content="遊戯王OCG「COMPLETE FILE －罪宝狩りの悪魔－」・1人3個まで｜コナミスタイルの抽選（締切 10/19(月)）">
 <meta property="og:description" content="コナミスタイルの「遊戯王OCG「COMPLETE FILE －罪宝狩りの悪魔－」・1人3個まで」受注。締切 10/19(月)　23:59 JST／配送あり。応募条件は公式ページで確認してください。">
 <meta property="og:url" content="https://fujiken1016.github.io/tcg-lottery-calendar/c/%E3%82%B3%E3%83%8A%E3%83%9F%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB/%E9%81%8A%E6%88%AF%E7%8E%8Bocg-complete-file-%E7%BD%AA%E5%AE%9D%E7%8B%A9%E3%82%8A%E3%81%AE%E6%82%AA%E9%AD%94-1%E4%BA%BA3%E5%80%8B%E3%81%BE%E3%81%A7-679b5c/">
-<meta name="generated" content="2026-09-24T10:59+09:00">
+<meta name="generated" content="2026-09-25T00:54+09:00">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-XRJ40EFR6C"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -87,7 +87,8 @@ footer.site a{display:inline-flex;align-items:center;min-height:48px}
    「公式ページで応募条件を見る」が1文字だけ2行目に落ちる（typography_probe で30件）。
    狭い端末だけ題名を1段下げ（リードも一緒に下げて比 1.65倍を維持）、ボタンの左右padding を詰める。 */
 @media (max-width:360px){
-  :root{--fs-h1:1.75rem; --fs-lead:1.0625rem; --fs-h3:1.1875rem}
+  /* 2026-09-25: 320px実測で h3/本文 が 1.118倍（design_sweep の基準1.2）で NG。19px→20.5px で 1.206倍。 */
+  :root{--fs-h1:1.75rem; --fs-lead:1.0625rem; --fs-h3:1.28125rem}
   .btn,.btn-sub{padding:12px var(--sp-3)}
 }
 /* 2026-09-17: 375/320px実測で .kv の2列組みが破綻していた（th 8.5em → 値の列が194px で
