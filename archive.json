@@ -1,4 +1,16 @@
 {
+ "c/bandai-tcg-アプリからのみ/ワンピカ-eb-05-one-piece-heroines-edition-vo-2f9b5d": {
+  "product": "ワンピカ EB-05「ONE PIECE Heroines Edition vol.2」発売記念イベント",
+  "store": "BANDAI TCG+ アプリからのみ",
+  "kind": "抽選",
+  "receipt": "店頭受取",
+  "platform": "onepiece-cardgame.com",
+  "url": "https://onepiece-cardgame.com/events/release-event-eb05.html",
+  "has_time": false,
+  "deadline": "2026-10-04T23:59:00+09:00",
+  "start": "2026-09-25T23:59:00+09:00",
+  "last_seen": "2026-09-26"
+ },
  "c/bigmagic-池袋店/ポケカ-mega-拡張パック-30th-celebration-1box-47325c": {
   "deadline": "2026-09-10T23:59:00+09:00",
   "has_time": true,
@@ -70,6 +82,18 @@
   "start": "2026-09-04T12:00:00+09:00",
   "store": "CARRYME",
   "url": "https://activity.carryme-app.com/retail111429/"
+ },
+ "c/cloud-pass-jp/ポケカ-mega-30th-celebration-カードセット-9種セット-3c4f82": {
+  "product": "ポケカ MEGA 30th CELEBRATION カードセット 9種セット",
+  "store": "cloud-pass.jp",
+  "kind": "抽選",
+  "receipt": "受取方法は公式で確認",
+  "platform": "cloud-pass.jp",
+  "url": "https://cloud-pass.jp/pr/30ff2757687fd615279bfbe74d87c154580591e6011c84df293f473a1851e6ec",
+  "has_time": true,
+  "deadline": "2026-09-27T23:59:00+09:00",
+  "start": "2026-09-25T10:00:00+09:00",
+  "last_seen": "2026-09-26"
  },
  "c/jump-shop/ワンピカ-ブースターパック-世界最強の戦士-op-17-373868": {
   "deadline": "2026-09-10T23:59:00+09:00",
@@ -178,6 +202,18 @@
   "start": null,
   "store": "TCG SUCH",
   "url": "https://shop.tcgsuch.com/items/156244438"
+ },
+ "c/tokyo-otaku-mode/ポケカ-mega-拡張パック-30th-celebration-1box-送料-252126": {
+  "product": "ポケカ MEGA ①拡張パック「30th CELEBRATION」1BOX ＋送料 ②「30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー」＋送料",
+  "store": "Tokyo Otaku Mode",
+  "kind": "抽選",
+  "receipt": "配送あり",
+  "platform": "ja.otakumode.com",
+  "url": "https://ja.otakumode.com/blogs/news/pokemontcg-raffle-260925",
+  "has_time": true,
+  "deadline": "2026-09-28T12:00:00+09:00",
+  "start": null,
+  "last_seen": "2026-09-26"
  },
  "c/tokyo-otaku-mode/ワンピカ-ブースターパック-世界最強の戦士-op-17-1box-送料-特典付き-c65aac": {
   "product": "ワンピカ ブースターパック「世界最強の戦士【OP-17】」1BOX ＋送料【特典付き】",
@@ -405,7 +441,7 @@
   "has_time": true,
   "deadline": "2026-10-19T23:59:00+09:00",
   "start": "2026-09-15T11:00:00+09:00",
-  "last_seen": "2026-09-25"
+  "last_seen": "2026-09-26"
  },
  "c/ティアワン渋谷店/dbfw-新弾-brightness-of-hope-fb11-1box-9f36c2": {
   "deadline": "2026-09-09T23:59:00+09:00",
@@ -441,7 +477,7 @@
   "has_time": false,
   "deadline": "2026-09-27T23:59:00+09:00",
   "start": null,
-  "last_seen": "2026-09-25"
+  "last_seen": "2026-09-26"
  },
  "c/トレカショップ-dandan-base店/ポケカ-mega-30th-celebration-futuristic-box-b163e0": {
   "product": "ポケカ MEGA「30th CELEBRATION FUTURISTIC BOX」1BOX",
@@ -453,7 +489,7 @@
   "has_time": true,
   "deadline": "2026-09-27T23:59:00+09:00",
   "start": null,
-  "last_seen": "2026-09-25"
+  "last_seen": "2026-09-26"
  },
  "c/トレカプラザ55-通販店/ポケカ-30th-celebration-系-5品-ccd7b7": {
   "product": "ポケカ 30th CELEBRATION 系 5品",
@@ -561,7 +597,7 @@
   "has_time": false,
   "deadline": "2026-11-29T23:59:00+09:00",
   "start": "2026-10-02T23:59:00+09:00",
-  "last_seen": "2026-09-25"
+  "last_seen": "2026-09-26"
  },
  "c/プレミアムバンダイ/ワンピカ-プレミアムカードコレクション-one-piece-day-26-3次予-613a2c": {
   "product": "ワンピカ プレミアムカードコレクション -ONE PIECE DAY'26-【3次予約】",
@@ -573,7 +609,7 @@
   "has_time": true,
   "deadline": "2026-10-02T23:00:00+09:00",
   "start": "2026-09-24T12:00:00+09:00",
-  "last_seen": "2026-09-25"
+  "last_seen": "2026-09-26"
  },
  "c/ホビビ通販部/ポケカ-30th-celebration-box-30th-celebratio-698f85": {
   "deadline": "2026-09-13T23:59:00+09:00",
@@ -597,7 +633,7 @@
   "has_time": false,
   "deadline": "2026-10-31T23:59:00+09:00",
   "start": null,
-  "last_seen": "2026-09-25"
+  "last_seen": "2026-09-26"
  },
  "c/ポケモンセンターオンライン/ポケカ-30周年記念商品の-第3回-追加抽選販売-41905a": {
   "deadline": "2026-09-16T16:59:00+09:00",
@@ -659,6 +695,18 @@
   "start": "2026-09-13T21:30:00+09:00",
   "last_seen": "2026-09-15"
  },
+ "c/ヤマシロヤ-オンラインショップ/ポケカ-mega-拡張パック-ストームエメラルダ-1box-eda2fb": {
+  "product": "ポケカ MEGA 拡張パック「ストームエメラルダ」1BOX",
+  "store": "ヤマシロヤ オンラインショップ",
+  "kind": "抽選",
+  "receipt": "店頭受取",
+  "platform": "Googleフォーム",
+  "url": "https://docs.google.com/forms/d/e/1FAIpQLSeGZUCe_PLNNTP1fbldlZbDvtkY3aQX1XMEafMo6kJsXpZnHg/viewform",
+  "has_time": true,
+  "deadline": "2026-09-28T21:30:00+09:00",
+  "start": "2026-09-25T21:30:00+09:00",
+  "last_seen": "2026-09-26"
+ },
  "c/古本市場-竹の塚店/ポケカ-mega-拡張パック-メガシンフォニア-1box-b5e043": {
   "deadline": "2026-09-08T22:00:00+09:00",
   "has_time": true,
@@ -693,7 +741,7 @@
   "has_time": true,
   "deadline": "2026-10-18T23:58:00+09:00",
   "start": null,
-  "last_seen": "2026-09-25"
+  "last_seen": "2026-09-26"
  },
  "c/応募先/ポケカ-3商品-2026-09-21-21-2x-に-livepocket-一次-93e2d8": {
   "product": "ポケカ 3商品＝2026/09/21 21:2x に LivePocket 一次実測で全部 確定＝①MEGA 拡張パック「30th CELEBRATION」…",
@@ -717,7 +765,7 @@
   "has_time": false,
   "deadline": "2026-09-30T23:59:00+09:00",
   "start": "2026-09-01T23:59:00+09:00",
-  "last_seen": "2026-09-25"
+  "last_seen": "2026-09-26"
  },
  "c/晴れる屋2-秋葉原タワー店/ポケカ-mega-拡張パック-ストームエメラルダ-1box-31a05e": {
   "deadline": "2026-09-12T23:59:00+09:00",
@@ -765,7 +813,7 @@
   "has_time": true,
   "deadline": "2026-09-30T17:00:00+09:00",
   "start": "2026-09-17T15:00:00+09:00",
-  "last_seen": "2026-09-25"
+  "last_seen": "2026-09-26"
  },
  "c/晴れる屋2/ポケカ-mega-30th-celebration-プレミアムデッキセット-エー-fe140d": {
   "deadline": "2026-09-12T23:59:00+09:00",
@@ -837,7 +885,7 @@
   "has_time": true,
   "deadline": "2026-09-30T23:59:00+09:00",
   "start": "2026-09-01T00:00:00+09:00",
-  "last_seen": "2026-09-25"
+  "last_seen": "2026-09-26"
  },
  "c/竜星のpao池袋店/ポケカ-30th-celebration-カードセット-御三家-各-1adf33": {
   "deadline": "2026-09-30T23:59:00+09:00",
@@ -850,5 +898,17 @@
   "start": "2026-09-01T00:00:00+09:00",
   "store": "竜星のPAO池袋店",
   "url": "https://pao.membercard.jp/lottery"
+ },
+ "c/革命オリパ/ポケカ-mega-30th-celebration-box-シュリンク付き-9ddece": {
+  "product": "ポケカ MEGA「30th CELEBRATION」BOX シュリンク付き",
+  "store": "革命オリパ",
+  "kind": "抽選",
+  "receipt": "配送あり",
+  "platform": "kakumeioripa.base.shop",
+  "url": "https://kakumeioripa.base.shop/items/158064070",
+  "has_time": true,
+  "deadline": "2026-10-18T00:00:00+09:00",
+  "start": "2026-09-18T08:00:00+09:00",
+  "last_seen": "2026-09-26"
  }
 }

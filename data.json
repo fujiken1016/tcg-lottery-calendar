@@ -1,53 +1,5 @@
 [
  {
-  "deadline": "2026-09-25T18:00:00+09:00",
-  "has_time": true,
-  "start": null,
-  "product": "遊戯王OCG「ORIGINAL ARTWORK COLLECTION」1BOX",
-  "store": "福福トレカ秋葉原店",
-  "kind": "抽選",
-  "receipt": "受取方法は公式で確認",
-  "url": "https://docs.google.com/forms/d/e/1FAIpQLScN_CJK8oh2EZjgiGloS_VBK3vzn_tupZHjEVfIw8pC7BgBUg/viewform",
-  "platform": "Googleフォーム",
-  "path": "c/福福トレカ秋葉原店/遊戯王ocg-original-artwork-collection-1box-d0f130"
- },
- {
-  "deadline": "2026-09-25T23:59:00+09:00",
-  "has_time": true,
-  "start": null,
-  "product": "ポケカ「30th CELEBRATION FUTURISTIC BOX」1BOX",
-  "store": "CARRYME",
-  "kind": "抽選",
-  "receipt": "受取方法は公式で確認",
-  "url": "https://activity.carryme-app.com/retail111429/",
-  "platform": "activity.carryme-app.com",
-  "path": "c/carryme/ポケカ-30th-celebration-futuristic-box-1box-6ffce9"
- },
- {
-  "deadline": "2026-09-25T23:59:00+09:00",
-  "has_time": true,
-  "start": null,
-  "product": "遊戯王OCG「ORIGINAL ARTWORK COLLECTION」1BOX",
-  "store": "バトロコ池袋駅前店",
-  "kind": "抽選",
-  "receipt": "受取方法は公式で確認",
-  "url": "https://forms.gle/nR9edKRkmmTJXkBF8",
-  "platform": "forms.gle",
-  "path": "c/バトロコ池袋駅前店/遊戯王ocg-original-artwork-collection-1box-ea0e9f"
- },
- {
-  "deadline": "2026-09-27T20:00:00+09:00",
-  "has_time": true,
-  "start": "2026-09-25T10:00:00+09:00",
-  "product": "ポケカ 30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー",
-  "store": "LivePocket",
-  "kind": "抽選",
-  "receipt": "受取方法は公式で確認",
-  "url": "https://livepocket.jp/e/e7ec9",
-  "platform": "LivePocket",
-  "path": "c/livepocket/ポケカ-30th-celebration-プレミアムデッキセット-エーフィ-ブラ-9b2776"
- },
- {
   "deadline": "2026-09-27T23:59:00+09:00",
   "has_time": true,
   "start": null,
@@ -70,6 +22,42 @@
   "url": "https://las.toysrus.co.jp/entry/tj67ewot0/",
   "platform": "トイザらス",
   "path": "c/トイザらス/ポケカ-mega-30th-celebration-カードセット-ボックス販売-8ef564"
+ },
+ {
+  "deadline": "2026-09-27T23:59:00+09:00",
+  "has_time": true,
+  "start": "2026-09-25T10:00:00+09:00",
+  "product": "ポケカ MEGA 30th CELEBRATION カードセット 9種セット",
+  "store": "cloud-pass.jp",
+  "kind": "抽選",
+  "receipt": "受取方法は公式で確認",
+  "url": "https://cloud-pass.jp/pr/30ff2757687fd615279bfbe74d87c154580591e6011c84df293f473a1851e6ec",
+  "platform": "cloud-pass.jp",
+  "path": "c/cloud-pass-jp/ポケカ-mega-30th-celebration-カードセット-9種セット-3c4f82"
+ },
+ {
+  "deadline": "2026-09-28T12:00:00+09:00",
+  "has_time": true,
+  "start": null,
+  "product": "ポケカ MEGA ①拡張パック「30th CELEBRATION」1BOX ＋送料 ②「30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー」＋送料",
+  "store": "Tokyo Otaku Mode",
+  "kind": "抽選",
+  "receipt": "配送あり",
+  "url": "https://ja.otakumode.com/blogs/news/pokemontcg-raffle-260925",
+  "platform": "ja.otakumode.com",
+  "path": "c/tokyo-otaku-mode/ポケカ-mega-拡張パック-30th-celebration-1box-送料-252126"
+ },
+ {
+  "deadline": "2026-09-28T21:30:00+09:00",
+  "has_time": true,
+  "start": "2026-09-25T21:30:00+09:00",
+  "product": "ポケカ MEGA 拡張パック「ストームエメラルダ」1BOX",
+  "store": "ヤマシロヤ オンラインショップ",
+  "kind": "抽選",
+  "receipt": "店頭受取",
+  "url": "https://docs.google.com/forms/d/e/1FAIpQLSeGZUCe_PLNNTP1fbldlZbDvtkY3aQX1XMEafMo6kJsXpZnHg/viewform",
+  "platform": "Googleフォーム",
+  "path": "c/ヤマシロヤ-オンラインショップ/ポケカ-mega-拡張パック-ストームエメラルダ-1box-eda2fb"
  },
  {
   "deadline": "2026-09-30T17:00:00+09:00",
@@ -118,6 +106,30 @@
   "url": "https://p-bandai.jp/item/item-1000257759/",
   "platform": "プレミアムバンダイ",
   "path": "c/プレミアムバンダイ/ワンピカ-プレミアムカードコレクション-one-piece-day-26-3次予-613a2c"
+ },
+ {
+  "deadline": "2026-10-04T23:59:00+09:00",
+  "has_time": false,
+  "start": "2026-09-25T23:59:00+09:00",
+  "product": "ワンピカ EB-05「ONE PIECE Heroines Edition vol.2」発売記念イベント",
+  "store": "BANDAI TCG+ アプリからのみ",
+  "kind": "抽選",
+  "receipt": "店頭受取",
+  "url": "https://onepiece-cardgame.com/events/release-event-eb05.html",
+  "platform": "onepiece-cardgame.com",
+  "path": "c/bandai-tcg-アプリからのみ/ワンピカ-eb-05-one-piece-heroines-edition-vo-2f9b5d"
+ },
+ {
+  "deadline": "2026-10-18T00:00:00+09:00",
+  "has_time": true,
+  "start": "2026-09-18T08:00:00+09:00",
+  "product": "ポケカ MEGA「30th CELEBRATION」BOX シュリンク付き",
+  "store": "革命オリパ",
+  "kind": "抽選",
+  "receipt": "配送あり",
+  "url": "https://kakumeioripa.base.shop/items/158064070",
+  "platform": "kakumeioripa.base.shop",
+  "path": "c/革命オリパ/ポケカ-mega-30th-celebration-box-シュリンク付き-9ddece"
  },
  {
   "deadline": "2026-10-18T23:58:00+09:00",
