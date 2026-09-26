@@ -9,7 +9,7 @@
   "has_time": false,
   "deadline": "2026-10-04T23:59:00+09:00",
   "start": "2026-09-25T23:59:00+09:00",
-  "last_seen": "2026-09-26"
+  "last_seen": "2026-09-27"
  },
  "c/bigmagic-池袋店/ポケカ-mega-拡張パック-30th-celebration-1box-47325c": {
   "deadline": "2026-09-10T23:59:00+09:00",
@@ -93,7 +93,7 @@
   "has_time": true,
   "deadline": "2026-09-27T23:59:00+09:00",
   "start": "2026-09-25T10:00:00+09:00",
-  "last_seen": "2026-09-26"
+  "last_seen": "2026-09-27"
  },
  "c/jump-shop/ワンピカ-ブースターパック-世界最強の戦士-op-17-373868": {
   "deadline": "2026-09-10T23:59:00+09:00",
@@ -213,7 +213,7 @@
   "has_time": true,
   "deadline": "2026-09-28T12:00:00+09:00",
   "start": null,
-  "last_seen": "2026-09-26"
+  "last_seen": "2026-09-27"
  },
  "c/tokyo-otaku-mode/ワンピカ-ブースターパック-世界最強の戦士-op-17-1box-送料-特典付き-c65aac": {
   "product": "ワンピカ ブースターパック「世界最強の戦士【OP-17】」1BOX ＋送料【特典付き】",
@@ -441,7 +441,7 @@
   "has_time": true,
   "deadline": "2026-10-19T23:59:00+09:00",
   "start": "2026-09-15T11:00:00+09:00",
-  "last_seen": "2026-09-26"
+  "last_seen": "2026-09-27"
  },
  "c/ティアワン渋谷店/dbfw-新弾-brightness-of-hope-fb11-1box-9f36c2": {
   "deadline": "2026-09-09T23:59:00+09:00",
@@ -477,7 +477,7 @@
   "has_time": false,
   "deadline": "2026-09-27T23:59:00+09:00",
   "start": null,
-  "last_seen": "2026-09-26"
+  "last_seen": "2026-09-27"
  },
  "c/トレカショップ-dandan-base店/ポケカ-mega-30th-celebration-futuristic-box-b163e0": {
   "product": "ポケカ MEGA「30th CELEBRATION FUTURISTIC BOX」1BOX",
@@ -489,7 +489,7 @@
   "has_time": true,
   "deadline": "2026-09-27T23:59:00+09:00",
   "start": null,
-  "last_seen": "2026-09-26"
+  "last_seen": "2026-09-27"
  },
  "c/トレカプラザ55-通販店/ポケカ-30th-celebration-系-5品-ccd7b7": {
   "product": "ポケカ 30th CELEBRATION 系 5品",
@@ -575,6 +575,18 @@
   "store": "フルコンプ",
   "url": "https://livepocket.jp/e/dk6jf"
  },
+ "c/フルコンプ8店舗-共通抽選/ポケカ-mega-拡張パック-30th-celebration-1box-30t-9176fe": {
+  "product": "ポケカ MEGA ①拡張パック「30th CELEBRATION」1BOX ②「30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー」1点",
+  "store": "フルコンプ8店舗 共通抽選",
+  "kind": "抽選",
+  "receipt": "店頭受取",
+  "platform": "LivePocket",
+  "url": "https://livepocket.jp/e/puo6o",
+  "has_time": true,
+  "deadline": "2026-09-29T11:59:00+09:00",
+  "start": "2026-09-25T18:58:00+09:00",
+  "last_seen": "2026-09-27"
+ },
  "c/プレミアムバンダイ/dbfw-ブースターパック-brightness-of-hope-fb11-1b-a6d40e": {
   "product": "DBFW ブースターパック「BRIGHTNESS OF HOPE【FB11】」1BOX",
   "store": "プレミアムバンダイ",
@@ -597,7 +609,7 @@
   "has_time": false,
   "deadline": "2026-11-29T23:59:00+09:00",
   "start": "2026-10-02T23:59:00+09:00",
-  "last_seen": "2026-09-26"
+  "last_seen": "2026-09-27"
  },
  "c/プレミアムバンダイ/ワンピカ-プレミアムカードコレクション-one-piece-day-26-3次予-613a2c": {
   "product": "ワンピカ プレミアムカードコレクション -ONE PIECE DAY'26-【3次予約】",
@@ -609,7 +621,7 @@
   "has_time": true,
   "deadline": "2026-10-02T23:00:00+09:00",
   "start": "2026-09-24T12:00:00+09:00",
-  "last_seen": "2026-09-26"
+  "last_seen": "2026-09-27"
  },
  "c/ホビビ通販部/ポケカ-30th-celebration-box-30th-celebratio-698f85": {
   "deadline": "2026-09-13T23:59:00+09:00",
@@ -633,7 +645,7 @@
   "has_time": false,
   "deadline": "2026-10-31T23:59:00+09:00",
   "start": null,
-  "last_seen": "2026-09-26"
+  "last_seen": "2026-09-27"
  },
  "c/ポケモンセンターオンライン/ポケカ-30周年記念商品の-第3回-追加抽選販売-41905a": {
   "deadline": "2026-09-16T16:59:00+09:00",
@@ -705,7 +717,7 @@
   "has_time": true,
   "deadline": "2026-09-28T21:30:00+09:00",
   "start": "2026-09-25T21:30:00+09:00",
-  "last_seen": "2026-09-26"
+  "last_seen": "2026-09-27"
  },
  "c/古本市場-竹の塚店/ポケカ-mega-拡張パック-メガシンフォニア-1box-b5e043": {
   "deadline": "2026-09-08T22:00:00+09:00",
@@ -741,7 +753,7 @@
   "has_time": true,
   "deadline": "2026-10-18T23:58:00+09:00",
   "start": null,
-  "last_seen": "2026-09-26"
+  "last_seen": "2026-09-27"
  },
  "c/応募先/ポケカ-3商品-2026-09-21-21-2x-に-livepocket-一次-93e2d8": {
   "product": "ポケカ 3商品＝2026/09/21 21:2x に LivePocket 一次実測で全部 確定＝①MEGA 拡張パック「30th CELEBRATION」…",
@@ -765,7 +777,7 @@
   "has_time": false,
   "deadline": "2026-09-30T23:59:00+09:00",
   "start": "2026-09-01T23:59:00+09:00",
-  "last_seen": "2026-09-26"
+  "last_seen": "2026-09-27"
  },
  "c/晴れる屋2-秋葉原タワー店/ポケカ-mega-拡張パック-ストームエメラルダ-1box-31a05e": {
   "deadline": "2026-09-12T23:59:00+09:00",
@@ -813,7 +825,7 @@
   "has_time": true,
   "deadline": "2026-09-30T17:00:00+09:00",
   "start": "2026-09-17T15:00:00+09:00",
-  "last_seen": "2026-09-26"
+  "last_seen": "2026-09-27"
  },
  "c/晴れる屋2/ポケカ-mega-30th-celebration-プレミアムデッキセット-エー-fe140d": {
   "deadline": "2026-09-12T23:59:00+09:00",
@@ -885,7 +897,7 @@
   "has_time": true,
   "deadline": "2026-09-30T23:59:00+09:00",
   "start": "2026-09-01T00:00:00+09:00",
-  "last_seen": "2026-09-26"
+  "last_seen": "2026-09-27"
  },
  "c/竜星のpao池袋店/ポケカ-30th-celebration-カードセット-御三家-各-1adf33": {
   "deadline": "2026-09-30T23:59:00+09:00",
@@ -909,6 +921,6 @@
   "has_time": true,
   "deadline": "2026-10-18T00:00:00+09:00",
   "start": "2026-09-18T08:00:00+09:00",
-  "last_seen": "2026-09-26"
+  "last_seen": "2026-09-27"
  }
 }
