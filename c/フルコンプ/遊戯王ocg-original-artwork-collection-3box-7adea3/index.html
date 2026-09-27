@@ -11,7 +11,7 @@
 <meta property="og:title" content="遊戯王OCG「ORIGINAL ARTWORK COLLECTION」3BOX｜フルコンプの抽選（受付終了・9/11(金)締切）">
 <meta property="og:description" content="フルコンプの「遊戯王OCG「ORIGINAL ARTWORK COLLECTION」3BOX」抽選。締切 9/11(金)　12:00 JST／受取方法は公式で確認。応募条件は公式ページで確認してください。この受付は終了しています。">
 <meta property="og:url" content="https://fujiken1016.github.io/tcg-lottery-calendar/c/%E3%83%95%E3%83%AB%E3%82%B3%E3%83%B3%E3%83%97/%E9%81%8A%E6%88%AF%E7%8E%8Bocg-original-artwork-collection-3box-7adea3/">
-<meta name="generated" content="2026-09-27T00:58+09:00">
+<meta name="generated" content="2026-09-28T06:55+09:00">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-XRJ40EFR6C"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -90,6 +90,11 @@ footer.site a{display:inline-flex;align-items:center;min-height:48px}
   /* 2026-09-25: 320px実測で h3/本文 が 1.118倍（design_sweep の基準1.2）で NG。19px→20.5px で 1.206倍。 */
   :root{--fs-h1:1.75rem; --fs-lead:1.0625rem; --fs-h3:1.28125rem}
   .btn,.btn-sub{padding:12px var(--sp-3)}
+  /* 2026-09-28: 320px実測で商品名 h3 が8行になり最終行に2文字だけ残る（typography_probe NG 2件）。
+     balance は行数が多いと効かない（Chrome は数行までしか均さない）。pretty は最終行の孤立を消す。
+     🔴 pretty を全幅に当てると 1280px で「32/6＝最終行が最長行の21%」の NG が出る（実測）＝
+     balance が効く幅では balance のまま残す。だから 360px 以下に限る。 */
+  h3{text-wrap:pretty}
 }
 /* 2026-09-17: 375/320px実測で .kv の2列組みが破綻していた（th 8.5em → 値の列が194px で
    「dorasuta.membercard.jp」がドメインの途中で折れ、締切「9/18(金) 00:00 JST」も2行）。

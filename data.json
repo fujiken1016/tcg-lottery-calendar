@@ -1,41 +1,5 @@
 [
  {
-  "deadline": "2026-09-27T23:59:00+09:00",
-  "has_time": true,
-  "start": null,
-  "product": "ポケカ MEGA「30th CELEBRATION FUTURISTIC BOX」1BOX",
-  "store": "トレカショップ「DANDAN」BASE店",
-  "kind": "抽選",
-  "receipt": "受取方法は公式で確認",
-  "url": "https://gamesearch.base.ec/items/158883125",
-  "platform": "gamesearch.base.ec",
-  "path": "c/トレカショップ-dandan-base店/ポケカ-mega-30th-celebration-futuristic-box-b163e0"
- },
- {
-  "deadline": "2026-09-27T23:59:00+09:00",
-  "has_time": false,
-  "start": null,
-  "product": "ポケカ MEGA「30th CELEBRATION」カードセット ボックス販売",
-  "store": "トイザらス",
-  "kind": "抽選",
-  "receipt": "店頭受取",
-  "url": "https://las.toysrus.co.jp/entry/tj67ewot0/",
-  "platform": "トイザらス",
-  "path": "c/トイザらス/ポケカ-mega-30th-celebration-カードセット-ボックス販売-8ef564"
- },
- {
-  "deadline": "2026-09-27T23:59:00+09:00",
-  "has_time": true,
-  "start": "2026-09-25T10:00:00+09:00",
-  "product": "ポケカ MEGA 30th CELEBRATION カードセット 9種セット",
-  "store": "cloud-pass.jp",
-  "kind": "抽選",
-  "receipt": "受取方法は公式で確認",
-  "url": "https://cloud-pass.jp/pr/30ff2757687fd615279bfbe74d87c154580591e6011c84df293f473a1851e6ec",
-  "platform": "cloud-pass.jp",
-  "path": "c/cloud-pass-jp/ポケカ-mega-30th-celebration-カードセット-9種セット-3c4f82"
- },
- {
   "deadline": "2026-09-28T12:00:00+09:00",
   "has_time": true,
   "start": null,
