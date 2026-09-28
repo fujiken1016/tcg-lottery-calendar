@@ -635,9 +635,9 @@
   "store": "ホビビ通販部",
   "url": "https://hobibinet-pokemon.com/"
  },
- "c/ポケモンカード公式-おうちでシールド戦-ストーム/ポケカ-プロモカード-メガエルレイド-ex-sar-抽選-2-000名-a03a00": {
+ "c/ポケモンカード公式/ポケカ-プロモカード-メガエルレイド-ex-sar-抽選-2-000名-a03a00": {
   "product": "ポケカ プロモカード「メガエルレイド ex」SAR／抽選 2,000名",
-  "store": "ポケモンカード公式「おうちでシールド戦『ストームエメラルダ』キャンペーン」",
+  "store": "ポケモンカード公式",
   "kind": "抽選",
   "receipt": "配送あり",
   "platform": "pokemon-card.com",
@@ -742,18 +742,6 @@
   "start": "2026-09-05T14:49:00+09:00",
   "store": "古本市場 竹の塚店",
   "url": "https://livepocket.jp/e/3pls7"
- },
- "c/少年ジャンプ-または-ゼブラック-でデジタル版/ワンピカ-one-piece-プレミアムカードコレクション-nike-コラボエデ-3ade93": {
-  "product": "ワンピカ「『ONE PIECE』プレミアムカードコレクション Nike コラボエディション」",
-  "store": "「少年ジャンプ＋」または「ゼブラック」でデジタル版『週刊少年ジャンプ』を定期購読…",
-  "kind": "応募者全員",
-  "receipt": "受取方法は公式で確認",
-  "platform": "shonenjumpplus.com",
-  "url": "https://shonenjumpplus.com/subscription",
-  "has_time": true,
-  "deadline": "2026-10-18T23:58:00+09:00",
-  "start": null,
-  "last_seen": "2026-09-29"
  },
  "c/応募先/ポケカ-3商品-2026-09-21-21-2x-に-livepocket-一次-93e2d8": {
   "product": "ポケカ 3商品＝2026/09/21 21:2x に LivePocket 一次実測で全部 確定＝①MEGA 拡張パック「30th CELEBRATION」…",
@@ -910,6 +898,18 @@
   "start": "2026-09-01T00:00:00+09:00",
   "store": "竜星のPAO池袋店",
   "url": "https://pao.membercard.jp/lottery"
+ },
+ "c/週刊少年ジャンプ編集部/ワンピカ-one-piece-プレミアムカードコレクション-nike-コラボエデ-3ade93": {
+  "product": "ワンピカ「『ONE PIECE』プレミアムカードコレクション Nike コラボエディション」",
+  "store": "週刊少年ジャンプ編集部",
+  "kind": "応募者全員",
+  "receipt": "受取方法は公式で確認",
+  "platform": "shonenjumpplus.com",
+  "url": "https://shonenjumpplus.com/subscription",
+  "has_time": true,
+  "deadline": "2026-10-18T23:58:00+09:00",
+  "start": null,
+  "last_seen": "2026-09-29"
  },
  "c/革命オリパ/ポケカ-mega-30th-celebration-box-シュリンク付き-9ddece": {
   "product": "ポケカ MEGA「30th CELEBRATION」BOX シュリンク付き",
