@@ -1,41 +1,5 @@
 [
  {
-  "deadline": "2026-09-30T17:00:00+09:00",
-  "has_time": true,
-  "start": "2026-09-17T15:00:00+09:00",
-  "product": "ポケカ【MEGA】拡張パック「ストームエメラルダ」1BOX",
-  "store": "晴れる屋2 通販抽選販売",
-  "kind": "抽選",
-  "receipt": "配送あり",
-  "url": "https://www.hareruya2.com/pages/146654363968",
-  "platform": "晴れる屋2",
-  "path": "c/晴れる屋2-通販抽選販売/ポケカ-mega-拡張パック-ストームエメラルダ-1box-c444a8"
- },
- {
-  "deadline": "2026-09-30T23:59:00+09:00",
-  "has_time": true,
-  "start": "2026-09-01T00:00:00+09:00",
-  "product": "ポケカ「30th CELEBRATION カードセット」御三家",
-  "store": "竜星のPAO池袋店",
-  "kind": "抽選",
-  "receipt": "店頭受取",
-  "url": "https://pao.membercard.jp/lottery",
-  "platform": "pao.membercard.jp",
-  "path": "c/竜星のpao池袋店/ポケカ-30th-celebration-カードセット-御三家-a37357"
- },
- {
-  "deadline": "2026-09-30T23:59:00+09:00",
-  "has_time": false,
-  "start": "2026-09-01T23:59:00+09:00",
-  "product": "ONE PIECE BASE SHOP 入店予約抽選",
-  "store": "新宿マルイ本館4階",
-  "kind": "抽選",
-  "receipt": "受取方法は公式で確認",
-  "url": "https://one-piece.com/news/81954/index.html",
-  "platform": "one-piece.com",
-  "path": "c/新宿マルイ本館4階/one-piece-base-shop-入店予約抽選-eabe0d"
- },
- {
   "deadline": "2026-10-02T23:00:00+09:00",
   "has_time": true,
   "start": "2026-09-24T12:00:00+09:00",
