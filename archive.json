@@ -9,7 +9,9 @@
   "has_time": false,
   "deadline": "2026-10-04T23:59:00+09:00",
   "start": "2026-09-25T23:59:00+09:00",
-  "last_seen": "2026-10-03"
+  "start_has_time": false,
+  "exclusive": false,
+  "last_seen": "2026-10-04"
  },
  "c/bigmagic-池袋店/ポケカ-mega-拡張パック-30th-celebration-1box-47325c": {
   "deadline": "2026-09-10T23:59:00+09:00",
@@ -202,6 +204,62 @@
   "start": null,
   "store": "TCG SUCH",
   "url": "https://shop.tcgsuch.com/items/156244438"
+ },
+ "c/tierone-ティアワン渋谷/ポケカ-mega-30th-celebration-カードセット-13a90e": {
+  "product": "ポケカ MEGA「30th CELEBRATION カードセット」",
+  "store": "TierOne ティアワン渋谷",
+  "kind": "抽選",
+  "receipt": "店頭受取",
+  "platform": "forms.gle",
+  "url": "https://forms.gle/KgjQ4uMjVaQD1tCC6",
+  "has_time": true,
+  "deadline": "2026-10-13T23:59:00+09:00",
+  "start": "2026-10-03T23:59:00+09:00",
+  "start_has_time": false,
+  "exclusive": true,
+  "last_seen": "2026-10-04"
+ },
+ "c/tierone-ティアワン渋谷/ポケカ-mega-拡張パック-30th-celebration-再販分-a166d9": {
+  "product": "ポケカ MEGA 拡張パック「30th CELEBRATION」再販分",
+  "store": "TierOne ティアワン渋谷",
+  "kind": "抽選",
+  "receipt": "店頭受取",
+  "platform": "forms.gle",
+  "url": "https://forms.gle/H8FrCcs8HN8RQSGo6",
+  "has_time": true,
+  "deadline": "2026-10-14T23:59:00+09:00",
+  "start": "2026-10-03T23:59:00+09:00",
+  "start_has_time": false,
+  "exclusive": true,
+  "last_seen": "2026-10-04"
+ },
+ "c/tierone-ティアワン渋谷/ワンピカ-one-piece-heroines-precious-box-1個-cf6173": {
+  "product": "ワンピカ「ONE PIECE HEROINES PRECIOUS BOX」1個",
+  "store": "TierOne ティアワン渋谷",
+  "kind": "抽選",
+  "receipt": "店頭受取",
+  "platform": "Googleフォーム",
+  "url": "https://docs.google.com/forms/d/e/1FAIpQLSc_MGdVQ6U6G2-IFz5Uy-QAzGYuuqoSV3uLzQeCKbH1AV84RQ/viewform",
+  "has_time": true,
+  "deadline": "2026-10-28T23:59:00+09:00",
+  "start": "2026-10-03T23:59:00+09:00",
+  "start_has_time": false,
+  "exclusive": true,
+  "last_seen": "2026-10-04"
+ },
+ "c/tierone-ティアワン渋谷/ワンピカ-エクストラブースター-eb-05-one-piece-heroines-747712": {
+  "product": "ワンピカ エクストラブースター EB-05「ONE PIECE Heroines Edition vol.2」1BOX",
+  "store": "TierOne ティアワン渋谷",
+  "kind": "抽選",
+  "receipt": "受取方法は公式で確認",
+  "platform": "forms.gle",
+  "url": "https://forms.gle/axYgHyChjfnqdiXd8",
+  "has_time": true,
+  "deadline": "2026-10-28T23:59:00+09:00",
+  "start": "2026-10-03T23:59:00+09:00",
+  "start_has_time": false,
+  "exclusive": true,
+  "last_seen": "2026-10-04"
  },
  "c/tokyo-otaku-mode/ポケカ-mega-拡張パック-30th-celebration-1box-送料-252126": {
   "product": "ポケカ MEGA ①拡張パック「30th CELEBRATION」1BOX ＋送料 ②「30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー」＋送料",
@@ -441,7 +499,9 @@
   "has_time": true,
   "deadline": "2026-10-19T23:59:00+09:00",
   "start": "2026-09-15T11:00:00+09:00",
-  "last_seen": "2026-10-03"
+  "start_has_time": true,
+  "exclusive": false,
+  "last_seen": "2026-10-04"
  },
  "c/ティアワン渋谷店/dbfw-新弾-brightness-of-hope-fb11-1box-9f36c2": {
   "deadline": "2026-09-09T23:59:00+09:00",
@@ -609,7 +669,9 @@
   "has_time": false,
   "deadline": "2026-11-29T23:59:00+09:00",
   "start": "2026-10-02T23:59:00+09:00",
-  "last_seen": "2026-10-03"
+  "start_has_time": false,
+  "exclusive": false,
+  "last_seen": "2026-10-04"
  },
  "c/プレミアムバンダイ/ワンピカ-プレミアムカードコレクション-one-piece-day-26-3次予-613a2c": {
   "product": "ワンピカ プレミアムカードコレクション -ONE PIECE DAY'26-【3次予約】",
@@ -645,7 +707,9 @@
   "has_time": false,
   "deadline": "2026-10-31T23:59:00+09:00",
   "start": null,
-  "last_seen": "2026-10-03"
+  "start_has_time": false,
+  "exclusive": false,
+  "last_seen": "2026-10-04"
  },
  "c/ポケモンセンターオンライン/ポケカ-30周年記念商品の-第3回-追加抽選販売-41905a": {
   "deadline": "2026-09-16T16:59:00+09:00",
@@ -909,7 +973,9 @@
   "has_time": true,
   "deadline": "2026-10-18T23:58:00+09:00",
   "start": null,
-  "last_seen": "2026-10-03"
+  "start_has_time": false,
+  "exclusive": false,
+  "last_seen": "2026-10-04"
  },
  "c/革命オリパ/ポケカ-mega-30th-celebration-box-シュリンク付き-9ddece": {
   "product": "ポケカ MEGA「30th CELEBRATION」BOX シュリンク付き",
@@ -921,6 +987,8 @@
   "has_time": true,
   "deadline": "2026-10-18T00:00:00+09:00",
   "start": "2026-09-18T08:00:00+09:00",
-  "last_seen": "2026-10-03"
+  "start_has_time": true,
+  "exclusive": false,
+  "last_seen": "2026-10-04"
  }
 }
