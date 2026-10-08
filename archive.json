@@ -217,6 +217,7 @@
   "start": "2026-10-03T23:59:00+09:00",
   "start_has_time": false,
   "exclusive": true,
+  "charge": false,
   "last_seen": "2026-10-09"
  },
  "c/tierone-ティアワン渋谷/ポケカ-mega-拡張パック-30th-celebration-再販分-a166d9": {
@@ -231,6 +232,7 @@
   "start": "2026-10-03T23:59:00+09:00",
   "start_has_time": false,
   "exclusive": true,
+  "charge": false,
   "last_seen": "2026-10-09"
  },
  "c/tierone-ティアワン渋谷/ワンピカ-one-piece-heroines-precious-box-1個-cf6173": {
@@ -245,6 +247,7 @@
   "start": "2026-10-03T23:59:00+09:00",
   "start_has_time": false,
   "exclusive": true,
+  "charge": false,
   "last_seen": "2026-10-09"
  },
  "c/tierone-ティアワン渋谷/ワンピカ-エクストラブースター-eb-05-one-piece-heroines-747712": {
@@ -259,6 +262,7 @@
   "start": "2026-10-03T23:59:00+09:00",
   "start_has_time": false,
   "exclusive": true,
+  "charge": false,
   "last_seen": "2026-10-09"
  },
  "c/tokyo-otaku-mode/ポケカ-mega-拡張パック-30th-celebration-1box-送料-252126": {
@@ -501,6 +505,7 @@
   "start": "2026-09-15T11:00:00+09:00",
   "start_has_time": true,
   "exclusive": false,
+  "charge": false,
   "last_seen": "2026-10-09"
  },
  "c/ティアワン渋谷店/dbfw-新弾-brightness-of-hope-fb11-1box-9f36c2": {
@@ -671,6 +676,7 @@
   "start": "2026-10-02T23:59:00+09:00",
   "start_has_time": false,
   "exclusive": false,
+  "charge": false,
   "last_seen": "2026-10-09"
  },
  "c/プレミアムバンダイ/ワンピカ-プレミアムカードコレクション-one-piece-day-26-3次予-613a2c": {
@@ -709,6 +715,7 @@
   "start": null,
   "start_has_time": false,
   "exclusive": false,
+  "charge": false,
   "last_seen": "2026-10-09"
  },
  "c/ポケモンセンターオンライン/ポケカ-30周年記念商品の-第3回-追加抽選販売-41905a": {
@@ -975,6 +982,7 @@
   "start": null,
   "start_has_time": false,
   "exclusive": false,
+  "charge": false,
   "last_seen": "2026-10-09"
  },
  "c/革命オリパ/ポケカ-mega-30th-celebration-box-シュリンク付き-9ddece": {
@@ -989,6 +997,7 @@
   "start": "2026-09-18T08:00:00+09:00",
   "start_has_time": true,
   "exclusive": false,
+  "charge": true,
   "last_seen": "2026-10-09"
  }
 }
