@@ -133,6 +133,36 @@
   "start": "2026-09-24T10:00:00+09:00",
   "last_seen": "2026-09-24"
  },
+ "c/livepocket/新宿高島屋-ポケカ-mega-30th-celebration-カードセット-370e45": {
+  "product": "新宿高島屋 ポケカ MEGA 「30th CELEBRATION カードセット」",
+  "store": "LivePocket",
+  "kind": "抽選",
+  "receipt": "受取方法は公式で確認",
+  "platform": "LivePocket",
+  "url": "https://livepocket.jp/e/cyqww",
+  "has_time": true,
+  "deadline": "2026-10-12T19:30:00+09:00",
+  "start": null,
+  "start_has_time": false,
+  "exclusive": false,
+  "charge": false,
+  "last_seen": "2026-10-10"
+ },
+ "c/livepocket/晴れる屋2-東日本-ポケカ-30th-celebration-カードセット-9種-a5d04a": {
+  "product": "晴れる屋2 東日本 ポケカ「30th CELEBRATION カードセット」9種セット",
+  "store": "LivePocket",
+  "kind": "抽選",
+  "receipt": "受取方法は公式で確認",
+  "platform": "LivePocket",
+  "url": "https://livepocket.jp/e/rbbol",
+  "has_time": true,
+  "deadline": "2026-10-12T23:59:00+09:00",
+  "start": null,
+  "start_has_time": false,
+  "exclusive": false,
+  "charge": false,
+  "last_seen": "2026-10-10"
+ },
  "c/magiトレカ/ポケカ-30th-celebration-box-1411a0": {
   "product": "ポケカ 30th CELEBRATION BOX",
   "store": "magiトレカ",
@@ -218,7 +248,7 @@
   "start_has_time": false,
   "exclusive": true,
   "charge": false,
-  "last_seen": "2026-10-09"
+  "last_seen": "2026-10-10"
  },
  "c/tierone-ティアワン渋谷/ポケカ-mega-拡張パック-30th-celebration-再販分-a166d9": {
   "product": "ポケカ MEGA 拡張パック「30th CELEBRATION」再販分",
@@ -233,7 +263,7 @@
   "start_has_time": false,
   "exclusive": true,
   "charge": false,
-  "last_seen": "2026-10-09"
+  "last_seen": "2026-10-10"
  },
  "c/tierone-ティアワン渋谷/ワンピカ-one-piece-heroines-precious-box-1個-cf6173": {
   "product": "ワンピカ「ONE PIECE HEROINES PRECIOUS BOX」1個",
@@ -248,7 +278,7 @@
   "start_has_time": false,
   "exclusive": true,
   "charge": false,
-  "last_seen": "2026-10-09"
+  "last_seen": "2026-10-10"
  },
  "c/tierone-ティアワン渋谷/ワンピカ-エクストラブースター-eb-05-one-piece-heroines-747712": {
   "product": "ワンピカ エクストラブースター EB-05「ONE PIECE Heroines Edition vol.2」1BOX",
@@ -263,7 +293,7 @@
   "start_has_time": false,
   "exclusive": true,
   "charge": false,
-  "last_seen": "2026-10-09"
+  "last_seen": "2026-10-10"
  },
  "c/tokyo-otaku-mode/ポケカ-mega-拡張パック-30th-celebration-1box-送料-252126": {
   "product": "ポケカ MEGA ①拡張パック「30th CELEBRATION」1BOX ＋送料 ②「30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー」＋送料",
@@ -506,7 +536,7 @@
   "start_has_time": true,
   "exclusive": false,
   "charge": false,
-  "last_seen": "2026-10-09"
+  "last_seen": "2026-10-10"
  },
  "c/ティアワン渋谷店/dbfw-新弾-brightness-of-hope-fb11-1box-9f36c2": {
   "deadline": "2026-09-09T23:59:00+09:00",
@@ -677,7 +707,7 @@
   "start_has_time": false,
   "exclusive": false,
   "charge": false,
-  "last_seen": "2026-10-09"
+  "last_seen": "2026-10-10"
  },
  "c/プレミアムバンダイ/ワンピカ-プレミアムカードコレクション-one-piece-day-26-3次予-613a2c": {
   "product": "ワンピカ プレミアムカードコレクション -ONE PIECE DAY'26-【3次予約】",
@@ -716,7 +746,7 @@
   "start_has_time": false,
   "exclusive": false,
   "charge": false,
-  "last_seen": "2026-10-09"
+  "last_seen": "2026-10-10"
  },
  "c/ポケモンセンターオンライン/ポケカ-30周年記念商品の-第3回-追加抽選販売-41905a": {
   "deadline": "2026-09-16T16:59:00+09:00",
@@ -983,7 +1013,7 @@
   "start_has_time": false,
   "exclusive": false,
   "charge": false,
-  "last_seen": "2026-10-09"
+  "last_seen": "2026-10-10"
  },
  "c/革命オリパ/ポケカ-mega-30th-celebration-box-シュリンク付き-9ddece": {
   "product": "ポケカ MEGA「30th CELEBRATION」BOX シュリンク付き",
@@ -998,6 +1028,6 @@
   "start_has_time": true,
   "exclusive": false,
   "charge": true,
-  "last_seen": "2026-10-09"
+  "last_seen": "2026-10-10"
  }
 }
