@@ -32,6 +32,22 @@
   "path": "c/livepocket/晴れる屋2-東日本-ポケカ-30th-celebration-カードセット-9種-a5d04a"
  },
  {
+  "deadline": "2026-10-12T23:59:00+09:00",
+  "has_time": true,
+  "start": null,
+  "start_has_time": false,
+  "datecell": "2026/10/12(月) 23:59 JST ＝ 10/12 07:59 PDT",
+  "product": "フルコンプ ポケカ「30th CELEBRATION カードセット」9種1セット",
+  "exclusive": false,
+  "charge": false,
+  "store": "LivePocket",
+  "kind": "抽選",
+  "receipt": "受取方法は公式で確認",
+  "url": "https://livepocket.jp/e/birt9",
+  "platform": "LivePocket",
+  "path": "c/livepocket/フルコンプ-ポケカ-30th-celebration-カードセット-9種1セット-c8a81a"
+ },
+ {
   "deadline": "2026-10-13T23:59:00+09:00",
   "has_time": true,
   "start": "2026-10-03T23:59:00+09:00",
@@ -44,7 +60,7 @@
   "kind": "抽選",
   "receipt": "店頭受取",
   "url": "https://forms.gle/KgjQ4uMjVaQD1tCC6",
-  "platform": "forms.gle",
+  "platform": "Googleフォーム",
   "path": "c/tierone-ティアワン渋谷/ポケカ-mega-30th-celebration-カードセット-13a90e"
  },
  {
@@ -60,7 +76,7 @@
   "kind": "抽選",
   "receipt": "店頭受取",
   "url": "https://forms.gle/H8FrCcs8HN8RQSGo6",
-  "platform": "forms.gle",
+  "platform": "Googleフォーム",
   "path": "c/tierone-ティアワン渋谷/ポケカ-mega-拡張パック-30th-celebration-再販分-a166d9"
  },
  {
@@ -124,7 +140,7 @@
   "kind": "抽選",
   "receipt": "受取方法は公式で確認",
   "url": "https://forms.gle/axYgHyChjfnqdiXd8",
-  "platform": "forms.gle",
+  "platform": "Googleフォーム",
   "path": "c/tierone-ティアワン渋谷/ワンピカ-エクストラブースター-eb-05-one-piece-heroines-747712"
  },
  {
