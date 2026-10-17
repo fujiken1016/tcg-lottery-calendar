@@ -1,20 +1,5 @@
 [
  {
-  "deadline": "2026-10-18T00:00:00+09:00",
-  "has_time": true,
-  "start": "2026-09-18T08:00:00+09:00",
-  "start_has_time": true,
-  "product": "ポケカ MEGA「30th CELEBRATION」BOX シュリンク付き",
-  "exclusive": false,
-  "charge": true,
-  "store": "革命オリパ",
-  "kind": "抽選",
-  "receipt": "配送あり",
-  "url": "https://kakumeioripa.base.shop/items/158064070",
-  "platform": "kakumeioripa.base.shop",
-  "path": "c/革命オリパ/ポケカ-mega-30th-celebration-box-シュリンク付き-9ddece"
- },
- {
   "deadline": "2026-10-18T23:58:00+09:00",
   "has_time": true,
   "start": null,
