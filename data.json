@@ -1,20 +1,5 @@
 [
  {
-  "deadline": "2026-10-31T23:59:00+09:00",
-  "has_time": false,
-  "start": null,
-  "start_has_time": false,
-  "product": "ポケカ プロモカード「メガエルレイド ex」SAR／抽選 2,000名",
-  "exclusive": false,
-  "charge": false,
-  "store": "ポケモンカード公式",
-  "kind": "抽選",
-  "receipt": "配送あり",
-  "url": "https://www.pokemon-card.com/info/005506.html",
-  "platform": "pokemon-card.com",
-  "path": "c/ポケモンカード公式/ポケカ-プロモカード-メガエルレイド-ex-sar-抽選-2-000名-a03a00"
- },
- {
   "deadline": "2026-11-29T23:59:00+09:00",
   "has_time": false,
   "start": "2026-10-02T23:59:00+09:00",
