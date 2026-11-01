@@ -514,6 +514,51 @@
   "start": "2026-09-16T23:59:00+09:00",
   "last_seen": "2026-09-17"
  },
+ "c/キッズリパブリック/ワンピカ-ブースターパック-神の支配-op-18-1box-286e04": {
+  "product": "ワンピカ ブースターパック「神の支配」【OP-18】1BOX",
+  "store": "キッズリパブリック",
+  "kind": "抽選",
+  "receipt": "店頭受取",
+  "platform": "kidsrepublic.jp",
+  "url": "https://www.kidsrepublic.jp/campaign/campaign_detail/20261121onepiececardgame",
+  "has_time": true,
+  "deadline": "2026-11-05T19:59:00+09:00",
+  "start": "2026-10-30T11:00:00+09:00",
+  "start_has_time": true,
+  "exclusive": false,
+  "charge": false,
+  "last_seen": "2026-11-01"
+ },
+ "c/ゲオオンライン/ポケカ-mega-スペシャルデッキセットmega-メガオーダイル-メガカイリュー-c9685a": {
+  "product": "ポケカ MEGA スペシャルデッキセットMEGA「メガオーダイル・メガカイリュー・メガゲンガー」",
+  "store": "ゲオオンライン",
+  "kind": "抽選",
+  "receipt": "店頭受取",
+  "platform": "geo-online.co.jp",
+  "url": "https://geo-online.co.jp/news/787",
+  "has_time": true,
+  "deadline": "2026-11-05T17:59:00+09:00",
+  "start": "2026-11-02T11:00:00+09:00",
+  "start_has_time": true,
+  "exclusive": false,
+  "charge": false,
+  "last_seen": "2026-11-01"
+ },
+ "c/ゲオオンライン/ワンピカ-ブースターパック-神の支配-op-18-b54cf1": {
+  "product": "ワンピカ ブースターパック「神の支配」【OP-18】",
+  "store": "ゲオオンライン",
+  "kind": "抽選",
+  "receipt": "店頭受取",
+  "platform": "geo-online.co.jp",
+  "url": "https://geo-online.co.jp/news/788",
+  "has_time": true,
+  "deadline": "2026-11-05T17:59:00+09:00",
+  "start": "2026-11-02T11:00:00+09:00",
+  "start_has_time": true,
+  "exclusive": false,
+  "charge": false,
+  "last_seen": "2026-11-01"
+ },
  "c/コジマ/ポケカ-mega-拡張パック-30th-celebration-プレミアムデッキ-a30258": {
   "deadline": "2026-09-13T23:59:00+09:00",
   "has_time": false,
@@ -787,6 +832,21 @@
   "store": "ポケモンセンターオンライン",
   "url": "https://www.pokemoncenter-online.com/"
  },
+ "c/ポケモンセンターオンライン/ポケカ-mega-拡張パック-ハドウシーカー-box-9e2b2a": {
+  "product": "ポケカ MEGA 拡張パック「ハドウシーカー」BOX",
+  "store": "ポケモンセンターオンライン",
+  "kind": "抽選",
+  "receipt": "配送あり",
+  "platform": "ポケモンセンターオンライン",
+  "url": "https://www.pokemoncenter-online.com/news/?id=20261030",
+  "has_time": true,
+  "deadline": "2026-11-10T16:59:00+09:00",
+  "start": "2026-11-06T16:00:00+09:00",
+  "start_has_time": true,
+  "exclusive": false,
+  "charge": false,
+  "last_seen": "2026-11-01"
+ },
  "c/ポケモンセンター店舗/ポケカ-mega-拡張パック-30th-celebration-お1人様10パッ-0bf498": {
   "deadline": "2026-09-11T23:59:00+09:00",
   "has_time": true,
@@ -990,6 +1050,21 @@
   "deadline": "2026-09-25T18:00:00+09:00",
   "start": null,
   "last_seen": "2026-09-25"
+ },
+ "c/竜星のpao/ワンピカ-ブースターパック-神の支配-op-18-1box-b6f11e": {
+  "product": "ワンピカ ブースターパック「神の支配」【OP-18】1BOX",
+  "store": "竜星のPAO",
+  "kind": "抽選",
+  "receipt": "店頭受取",
+  "platform": "LivePocket",
+  "url": "https://livepocket.jp/e/6t8b2y",
+  "has_time": true,
+  "deadline": "2026-11-01T23:59:00+09:00",
+  "start": "2026-10-30T11:50:00+09:00",
+  "start_has_time": true,
+  "exclusive": true,
+  "charge": false,
+  "last_seen": "2026-11-01"
  },
  "c/竜星のpao池袋店/ポケカ-30th-celebration-カードセット-御三家-a37357": {
   "product": "ポケカ「30th CELEBRATION カードセット」御三家",
