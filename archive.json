@@ -1435,6 +1435,21 @@
   "charge": false,
   "last_seen": "2026-10-18"
  },
+ "c/遊戯王-公式-web抽選販売/遊戯王ocg-神を超えたしもべ-青眼の究極竜-デュエルセット-2005df": {
+  "product": "遊戯王OCG『神を超えたしもべ－青眼の究極竜 デュエルセット』",
+  "store": "遊戯王 公式 WEB抽選販売",
+  "kind": "抽選",
+  "receipt": "配送あり",
+  "platform": "LivePocket",
+  "url": "https://livepocket.jp/e/ycsjtokyo2026_duelset",
+  "has_time": true,
+  "deadline": "2026-11-09T23:59:00+09:00",
+  "start": "2026-11-06T19:00:00+09:00",
+  "start_has_time": true,
+  "exclusive": false,
+  "charge": false,
+  "last_seen": "2026-11-06"
+ },
  "c/革命オリパ/ポケカ-mega-30th-celebration-box-シュリンク付き-9ddece": {
   "product": "ポケカ MEGA「30th CELEBRATION」BOX シュリンク付き",
   "store": "革命オリパ",
