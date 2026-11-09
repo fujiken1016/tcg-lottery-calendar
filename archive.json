@@ -427,6 +427,21 @@
   "start": null,
   "last_seen": "2026-09-28"
  },
+ "c/tokyo-otaku-mode/ポケカ-mega-拡張パック-ストームエメラルダ-box-再販抽選-e20670": {
+  "product": "ポケカ MEGA 拡張パック「ストームエメラルダ」BOX 再販抽選",
+  "store": "Tokyo Otaku Mode",
+  "kind": "抽選",
+  "receipt": "配送あり",
+  "platform": "ja.otakumode.com",
+  "url": "https://ja.otakumode.com/blogs/news/pokemontcg-raffle-261106",
+  "has_time": true,
+  "deadline": "2026-11-10T12:00:00+09:00",
+  "start": "2026-11-06T19:00:00+09:00",
+  "start_has_time": true,
+  "exclusive": false,
+  "charge": false,
+  "last_seen": "2026-11-09"
+ },
  "c/tokyo-otaku-mode/ワンピカ-ブースターパック-世界最強の戦士-op-17-1box-送料-特典付き-c65aac": {
   "product": "ワンピカ ブースターパック「世界最強の戦士【OP-17】」1BOX ＋送料【特典付き】",
   "store": "Tokyo Otaku Mode",
@@ -894,6 +909,21 @@
   "deadline": "2026-09-18T00:00:00+09:00",
   "start": "2026-09-15T22:00:00+09:00",
   "last_seen": "2026-09-17"
+ },
+ "c/ハレツー通販/ポケカ-mega-拡張パック-ハドウシーカー-box-e31ac4": {
+  "product": "ポケカ MEGA 拡張パック「ハドウシーカー」BOX",
+  "store": "ハレツー通販",
+  "kind": "抽選",
+  "receipt": "配送あり",
+  "platform": "LivePocket",
+  "url": "https://livepocket.jp/e/s191v",
+  "has_time": true,
+  "deadline": "2026-11-11T18:00:00+09:00",
+  "start": "2026-11-05T18:00:00+09:00",
+  "start_has_time": true,
+  "exclusive": false,
+  "charge": false,
+  "last_seen": "2026-11-09"
  },
  "c/バトロコ池袋駅前店/遊戯王ocg-original-artwork-collection-1box-ea0e9f": {
   "product": "遊戯王OCG「ORIGINAL ARTWORK COLLECTION」1BOX",

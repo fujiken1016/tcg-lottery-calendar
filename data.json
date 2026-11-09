@@ -30,6 +30,21 @@
   "path": "c/遊戯王-公式-web抽選販売/遊戯王ocg-神を超えたしもべ-青眼の究極竜-デュエルセット-2005df"
  },
  {
+  "deadline": "2026-11-10T12:00:00+09:00",
+  "has_time": true,
+  "start": "2026-11-06T19:00:00+09:00",
+  "start_has_time": true,
+  "product": "ポケカ MEGA 拡張パック「ストームエメラルダ」BOX 再販抽選",
+  "exclusive": false,
+  "charge": false,
+  "store": "Tokyo Otaku Mode",
+  "kind": "抽選",
+  "receipt": "配送あり",
+  "url": "https://ja.otakumode.com/blogs/news/pokemontcg-raffle-261106",
+  "platform": "ja.otakumode.com",
+  "path": "c/tokyo-otaku-mode/ポケカ-mega-拡張パック-ストームエメラルダ-box-再販抽選-e20670"
+ },
+ {
   "deadline": "2026-11-10T16:59:00+09:00",
   "has_time": true,
   "start": "2026-11-06T16:00:00+09:00",
@@ -58,6 +73,21 @@
   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfVqoKTQq43typtf7r0g2PLSY8jvqGZnMDdMfjVfYUv8UbvlA/viewform",
   "platform": "Googleフォーム",
   "path": "c/tierone-ティアワン渋谷/ポケカ-スペシャルデッキセットmega-メガオーダイル-メガカイリュー-メガゲン-92385e"
+ },
+ {
+  "deadline": "2026-11-11T18:00:00+09:00",
+  "has_time": true,
+  "start": "2026-11-05T18:00:00+09:00",
+  "start_has_time": true,
+  "product": "ポケカ MEGA 拡張パック「ハドウシーカー」BOX",
+  "exclusive": false,
+  "charge": false,
+  "store": "ハレツー通販",
+  "kind": "抽選",
+  "receipt": "配送あり",
+  "url": "https://livepocket.jp/e/s191v",
+  "platform": "LivePocket",
+  "path": "c/ハレツー通販/ポケカ-mega-拡張パック-ハドウシーカー-box-e31ac4"
  },
  {
   "deadline": "2026-11-11T23:59:00+09:00",
