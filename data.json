@@ -1,50 +1,5 @@
 [
  {
-  "deadline": "2026-11-09T23:59:00+09:00",
-  "has_time": true,
-  "start": "2026-11-04T10:00:00+09:00",
-  "start_has_time": true,
-  "product": "ポケカ MEGA 拡張パック「ハドウシーカー」BOX 抽選",
-  "exclusive": false,
-  "charge": false,
-  "store": "ファミマオンライン",
-  "kind": "抽選",
-  "receipt": "配送あり",
-  "url": "https://famima-online.family.co.jp/item?itemCode=100163657179608640",
-  "platform": "ファミマオンライン",
-  "path": "c/ファミマオンライン/ポケカ-mega-拡張パック-ハドウシーカー-box-抽選-d59417"
- },
- {
-  "deadline": "2026-11-09T23:59:00+09:00",
-  "has_time": true,
-  "start": "2026-11-06T19:00:00+09:00",
-  "start_has_time": true,
-  "product": "遊戯王OCG『神を超えたしもべ－青眼の究極竜 デュエルセット』",
-  "exclusive": false,
-  "charge": false,
-  "store": "遊戯王 公式 WEB抽選販売",
-  "kind": "抽選",
-  "receipt": "配送あり",
-  "url": "https://livepocket.jp/e/ycsjtokyo2026_duelset",
-  "platform": "LivePocket",
-  "path": "c/遊戯王-公式-web抽選販売/遊戯王ocg-神を超えたしもべ-青眼の究極竜-デュエルセット-2005df"
- },
- {
-  "deadline": "2026-11-09T23:59:00+09:00",
-  "has_time": false,
-  "start": null,
-  "start_has_time": false,
-  "product": "遊戯王ラッシュデュエル リミテッドパック アナザースタイルエディション",
-  "exclusive": false,
-  "charge": false,
-  "store": "コナミスタイル",
-  "kind": "受注",
-  "receipt": "配送あり",
-  "url": "https://konami.jp/4z5RvXz",
-  "platform": "konami.jp",
-  "path": "c/コナミスタイル/遊戯王ラッシュデュエル-リミテッドパック-アナザースタイルエディション-b6f272"
- },
- {
   "deadline": "2026-11-10T12:00:00+09:00",
   "has_time": true,
   "start": "2026-11-06T19:00:00+09:00",
@@ -118,6 +73,21 @@
   "url": "https://docs.google.com/forms/d/e/1FAIpQLSc33AhJDq7aOk9-nJBXfunDjeCEJ4epACB-Wlwu1-jQ5dMyzg/viewform",
   "platform": "Googleフォーム",
   "path": "c/ワンハッピー/ワンピカ-ブースターパック-神の支配-op-18-1box-予約抽選-6cd8e6"
+ },
+ {
+  "deadline": "2026-11-11T23:59:00+09:00",
+  "has_time": true,
+  "start": null,
+  "start_has_time": false,
+  "product": "ワンピカ OP-18「神の支配」",
+  "exclusive": false,
+  "charge": false,
+  "store": "ドラゴンスター 通販",
+  "kind": "抽選",
+  "receipt": "配送あり",
+  "url": "https://dorasuta.membercard.jp/lottery-entry?ekey=ZWg0OWU0dnNud1g3QVVSR1B2ZVlNUT09",
+  "platform": "dorasuta.membercard.jp",
+  "path": "c/ドラゴンスター-通販/ワンピカ-op-18-神の支配-abe32b"
  },
  {
   "deadline": "2026-11-13T00:00:00+09:00",
@@ -223,6 +193,21 @@
   "url": "https://livepocket.jp/e/ufbho",
   "platform": "LivePocket",
   "path": "c/torevi/ポケカ-mega-拡張パック-30th-celebration-1box-抽選販-f96eac"
+ },
+ {
+  "deadline": "2026-11-15T23:59:00+09:00",
+  "has_time": true,
+  "start": "2026-11-10T10:00:00+09:00",
+  "start_has_time": true,
+  "product": "ワンピカ OP-18「神の支配」1BOX",
+  "exclusive": false,
+  "charge": true,
+  "store": "アニメイトオンライン",
+  "kind": "抽選",
+  "receipt": "配送あり",
+  "url": "https://www.animate-onlineshop.jp/products/detail.php?product_id=3592097",
+  "platform": "animate-onlineshop.jp",
+  "path": "c/アニメイトオンライン/ワンピカ-op-18-神の支配-1box-ec6a0e"
  },
  {
   "deadline": "2026-11-18T23:59:00+09:00",
