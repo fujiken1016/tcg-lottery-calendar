@@ -1,50 +1,5 @@
 [
  {
-  "deadline": "2026-11-10T12:00:00+09:00",
-  "has_time": true,
-  "start": "2026-11-06T19:00:00+09:00",
-  "start_has_time": true,
-  "product": "ポケカ MEGA 拡張パック「ストームエメラルダ」BOX 再販抽選",
-  "exclusive": false,
-  "charge": false,
-  "store": "Tokyo Otaku Mode",
-  "kind": "抽選",
-  "receipt": "配送あり",
-  "url": "https://ja.otakumode.com/blogs/news/pokemontcg-raffle-261106",
-  "platform": "ja.otakumode.com",
-  "path": "c/tokyo-otaku-mode/ポケカ-mega-拡張パック-ストームエメラルダ-box-再販抽選-e20670"
- },
- {
-  "deadline": "2026-11-10T16:59:00+09:00",
-  "has_time": true,
-  "start": "2026-11-06T16:00:00+09:00",
-  "start_has_time": true,
-  "product": "ポケカ MEGA 拡張パック「ハドウシーカー」BOX",
-  "exclusive": false,
-  "charge": false,
-  "store": "ポケモンセンターオンライン",
-  "kind": "抽選",
-  "receipt": "配送あり",
-  "url": "https://www.pokemoncenter-online.com/news/?id=20261030",
-  "platform": "ポケモンセンターオンライン",
-  "path": "c/ポケモンセンターオンライン/ポケカ-mega-拡張パック-ハドウシーカー-box-9e2b2a"
- },
- {
-  "deadline": "2026-11-10T23:59:00+09:00",
-  "has_time": true,
-  "start": "2026-11-02T23:59:00+09:00",
-  "start_has_time": false,
-  "product": "ポケカ スペシャルデッキセットMEGA「メガオーダイル・メガカイリュー・メガゲンガー」抽選",
-  "exclusive": false,
-  "charge": false,
-  "store": "TierOne ティアワン渋谷",
-  "kind": "抽選",
-  "receipt": "店頭受取",
-  "url": "https://docs.google.com/forms/d/e/1FAIpQLSfVqoKTQq43typtf7r0g2PLSY8jvqGZnMDdMfjVfYUv8UbvlA/viewform",
-  "platform": "Googleフォーム",
-  "path": "c/tierone-ティアワン渋谷/ポケカ-スペシャルデッキセットmega-メガオーダイル-メガカイリュー-メガゲン-92385e"
- },
- {
   "deadline": "2026-11-11T18:00:00+09:00",
   "has_time": true,
   "start": "2026-11-05T18:00:00+09:00",
@@ -88,6 +43,21 @@
   "url": "https://dorasuta.membercard.jp/lottery-entry?ekey=ZWg0OWU0dnNud1g3QVVSR1B2ZVlNUT09",
   "platform": "dorasuta.membercard.jp",
   "path": "c/ドラゴンスター-通販/ワンピカ-op-18-神の支配-abe32b"
+ },
+ {
+  "deadline": "2026-11-12T21:30:00+09:00",
+  "has_time": true,
+  "start": null,
+  "start_has_time": false,
+  "product": "ワンピカ OP-18「神の支配」BOX",
+  "exclusive": false,
+  "charge": false,
+  "store": "ヤマシロヤ オンライン",
+  "kind": "抽選",
+  "receipt": "配送あり",
+  "url": "https://docs.google.com/forms/d/e/1FAIpQLSfL8s2V2iGQ4uZYHfO8ckZG23OiggPZ_0HAxgf_i7G39AkeRA/viewform",
+  "platform": "Googleフォーム",
+  "path": "c/ヤマシロヤ-オンライン/ワンピカ-op-18-神の支配-box-931145"
  },
  {
   "deadline": "2026-11-13T00:00:00+09:00",
@@ -195,6 +165,21 @@
   "path": "c/torevi/ポケカ-mega-拡張パック-30th-celebration-1box-抽選販-f96eac"
  },
  {
+  "deadline": "2026-11-13T23:59:00+09:00",
+  "has_time": true,
+  "start": null,
+  "start_has_time": false,
+  "product": "ワンピカ EB「Heroines Edition vol.2」1BOX",
+  "exclusive": false,
+  "charge": false,
+  "store": "ドラゴンスター モバイル会員限定",
+  "kind": "抽選",
+  "receipt": "店頭受取",
+  "url": "https://dorasuta.membercard.jp/lottery",
+  "platform": "dorasuta.membercard.jp",
+  "path": "c/ドラゴンスター-モバイル会員限定/ワンピカ-eb-heroines-edition-vol-2-1box-bb1b1e"
+ },
+ {
   "deadline": "2026-11-15T23:59:00+09:00",
   "has_time": true,
   "start": "2026-11-10T10:00:00+09:00",
@@ -208,6 +193,21 @@
   "url": "https://www.animate-onlineshop.jp/products/detail.php?product_id=3592097",
   "platform": "animate-onlineshop.jp",
   "path": "c/アニメイトオンライン/ワンピカ-op-18-神の支配-1box-ec6a0e"
+ },
+ {
+  "deadline": "2026-11-15T23:59:00+09:00",
+  "has_time": true,
+  "start": "2026-11-11T10:00:00+09:00",
+  "start_has_time": true,
+  "product": "ワンピカ OP-18「神の支配」購入権チケット抽選",
+  "exclusive": false,
+  "charge": false,
+  "store": "ナムコパークス オンラインストア",
+  "kind": "抽選",
+  "receipt": "店頭受取",
+  "url": "https://parks2.bandainamco-am.co.jp/category/ECCL00000061/",
+  "platform": "parks2.bandainamco-am.co.jp",
+  "path": "c/ナムコパークス-オンラインストア/ワンピカ-op-18-神の支配-購入権チケット抽選-dfb4a5"
  },
  {
   "deadline": "2026-11-18T23:59:00+09:00",

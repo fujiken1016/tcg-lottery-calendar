@@ -413,7 +413,7 @@
   "start_has_time": false,
   "exclusive": false,
   "charge": false,
-  "last_seen": "2026-11-10"
+  "last_seen": "2026-11-11"
  },
  "c/tokyo-otaku-mode/ポケカ-mega-拡張パック-30th-celebration-1box-送料-252126": {
   "product": "ポケカ MEGA ①拡張パック「30th CELEBRATION」1BOX ＋送料 ②「30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー」＋送料",
@@ -479,7 +479,7 @@
   "start_has_time": true,
   "exclusive": false,
   "charge": false,
-  "last_seen": "2026-11-10"
+  "last_seen": "2026-11-11"
  },
  "c/tsutaya-trading-card-錦糸町/ポケカ-スペシャルデッキセットmega-抽選-9c2c46": {
   "product": "ポケカ スペシャルデッキセットMEGA 抽選",
@@ -596,7 +596,7 @@
   "start_has_time": true,
   "exclusive": false,
   "charge": true,
-  "last_seen": "2026-11-10"
+  "last_seen": "2026-11-11"
  },
  "c/カーデリア池袋店/dbfw-ブースターパック-brightness-of-hope-fb11-1b-aaae08": {
   "product": "DBFW ブースターパック「BRIGHTNESS OF HOPE」【FB11】1BOX",
@@ -928,6 +928,21 @@
   "charge": false,
   "last_seen": "2026-11-06"
  },
+ "c/ドラゴンスター-モバイル会員限定/ワンピカ-eb-heroines-edition-vol-2-1box-bb1b1e": {
+  "product": "ワンピカ EB「Heroines Edition vol.2」1BOX",
+  "store": "ドラゴンスター モバイル会員限定",
+  "kind": "抽選",
+  "receipt": "店頭受取",
+  "platform": "dorasuta.membercard.jp",
+  "url": "https://dorasuta.membercard.jp/lottery",
+  "has_time": true,
+  "deadline": "2026-11-13T23:59:00+09:00",
+  "start": null,
+  "start_has_time": false,
+  "exclusive": false,
+  "charge": false,
+  "last_seen": "2026-11-11"
+ },
  "c/ドラゴンスター-池袋店/ポケカ-ハドウシーカー-1box-d2d8d3": {
   "product": "ポケカ「ハドウシーカー」1BOX",
   "store": "ドラゴンスター 池袋店",
@@ -941,7 +956,7 @@
   "start_has_time": false,
   "exclusive": false,
   "charge": false,
-  "last_seen": "2026-11-10"
+  "last_seen": "2026-11-11"
  },
  "c/ドラゴンスター-池袋店/ワンピカ-op-18-神の支配-1box-3cee2c": {
   "product": "ワンピカ OP-18「神の支配」1BOX",
@@ -956,7 +971,7 @@
   "start_has_time": false,
   "exclusive": false,
   "charge": false,
-  "last_seen": "2026-11-10"
+  "last_seen": "2026-11-11"
  },
  "c/ドラゴンスター-秋葉原本店/ポケカ-ハドウシーカー-1box-de0475": {
   "product": "ポケカ「ハドウシーカー」1BOX",
@@ -971,7 +986,7 @@
   "start_has_time": false,
   "exclusive": false,
   "charge": false,
-  "last_seen": "2026-11-10"
+  "last_seen": "2026-11-11"
  },
  "c/ドラゴンスター-秋葉原本店/ワンピカ-op-18-神の支配-1box-ed16ac": {
   "product": "ワンピカ OP-18「神の支配」1BOX",
@@ -986,7 +1001,7 @@
   "start_has_time": false,
   "exclusive": false,
   "charge": false,
-  "last_seen": "2026-11-10"
+  "last_seen": "2026-11-11"
  },
  "c/ドラゴンスター-秋葉原駅前店/ポケカ-ハドウシーカー-1box-45f73b": {
   "product": "ポケカ「ハドウシーカー」1BOX",
@@ -1001,7 +1016,7 @@
   "start_has_time": false,
   "exclusive": false,
   "charge": false,
-  "last_seen": "2026-11-10"
+  "last_seen": "2026-11-11"
  },
  "c/ドラゴンスター-秋葉原駅前店/ワンピカ-op-18-神の支配-1box-e90e6f": {
   "product": "ワンピカ OP-18「神の支配」1BOX",
@@ -1016,7 +1031,7 @@
   "start_has_time": false,
   "exclusive": false,
   "charge": false,
-  "last_seen": "2026-11-10"
+  "last_seen": "2026-11-11"
  },
  "c/ドラゴンスター-通販/ワンピカ-op-18-神の支配-abe32b": {
   "product": "ワンピカ OP-18「神の支配」",
@@ -1031,7 +1046,7 @@
   "start_has_time": false,
   "exclusive": false,
   "charge": false,
-  "last_seen": "2026-11-10"
+  "last_seen": "2026-11-11"
  },
  "c/ドラスタ通販/ワンピカ-ブースターパック-蒼海の七傑-op-14-1box-ebce89": {
   "product": "ワンピカ ブースターパック「蒼海の七傑【OP-14】」1BOX",
@@ -1044,6 +1059,21 @@
   "deadline": "2026-09-18T00:00:00+09:00",
   "start": "2026-09-15T22:00:00+09:00",
   "last_seen": "2026-09-17"
+ },
+ "c/ナムコパークス-オンラインストア/ワンピカ-op-18-神の支配-購入権チケット抽選-dfb4a5": {
+  "product": "ワンピカ OP-18「神の支配」購入権チケット抽選",
+  "store": "ナムコパークス オンラインストア",
+  "kind": "抽選",
+  "receipt": "店頭受取",
+  "platform": "parks2.bandainamco-am.co.jp",
+  "url": "https://parks2.bandainamco-am.co.jp/category/ECCL00000061/",
+  "has_time": true,
+  "deadline": "2026-11-15T23:59:00+09:00",
+  "start": "2026-11-11T10:00:00+09:00",
+  "start_has_time": true,
+  "exclusive": false,
+  "charge": false,
+  "last_seen": "2026-11-11"
  },
  "c/ハレツー通販/ポケカ-mega-拡張パック-ハドウシーカー-box-e31ac4": {
   "product": "ポケカ MEGA 拡張パック「ハドウシーカー」BOX",
@@ -1058,7 +1088,7 @@
   "start_has_time": true,
   "exclusive": false,
   "charge": false,
-  "last_seen": "2026-11-10"
+  "last_seen": "2026-11-11"
  },
  "c/バトロコ池袋駅前店/遊戯王ocg-original-artwork-collection-1box-ea0e9f": {
   "product": "遊戯王OCG「ORIGINAL ARTWORK COLLECTION」1BOX",
@@ -1202,7 +1232,7 @@
   "start_has_time": false,
   "exclusive": false,
   "charge": false,
-  "last_seen": "2026-11-10"
+  "last_seen": "2026-11-11"
  },
  "c/プレミアムバンダイ/ワンピカ-プレミアムカードコレクション-one-piece-day-26-3次予-613a2c": {
   "product": "ワンピカ プレミアムカードコレクション -ONE PIECE DAY'26-【3次予約】",
@@ -1321,6 +1351,21 @@
   "start": "2026-09-08T23:59:00+09:00",
   "last_seen": "2026-09-14"
  },
+ "c/ヤマシロヤ-オンライン/ワンピカ-op-18-神の支配-box-931145": {
+  "product": "ワンピカ OP-18「神の支配」BOX",
+  "store": "ヤマシロヤ オンライン",
+  "kind": "抽選",
+  "receipt": "配送あり",
+  "platform": "Googleフォーム",
+  "url": "https://docs.google.com/forms/d/e/1FAIpQLSfL8s2V2iGQ4uZYHfO8ckZG23OiggPZ_0HAxgf_i7G39AkeRA/viewform",
+  "has_time": true,
+  "deadline": "2026-11-12T21:30:00+09:00",
+  "start": null,
+  "start_has_time": false,
+  "exclusive": false,
+  "charge": false,
+  "last_seen": "2026-11-11"
+ },
  "c/ヤマシロヤ-オンライン/ワンピカ-再販4種-box-各-4bb28a": {
   "product": "ワンピカ 再販4種 BOX 各",
   "store": "ヤマシロヤ オンライン",
@@ -1373,7 +1418,7 @@
   "start_has_time": false,
   "exclusive": false,
   "charge": false,
-  "last_seen": "2026-11-10"
+  "last_seen": "2026-11-11"
  },
  "c/古本市場-竹の塚店/ポケカ-mega-拡張パック-メガシンフォニア-1box-b5e043": {
   "deadline": "2026-09-08T22:00:00+09:00",
