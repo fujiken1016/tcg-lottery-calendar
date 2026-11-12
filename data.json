@@ -1,50 +1,5 @@
 [
  {
-  "deadline": "2026-11-11T18:00:00+09:00",
-  "has_time": true,
-  "start": "2026-11-05T18:00:00+09:00",
-  "start_has_time": true,
-  "product": "ポケカ MEGA 拡張パック「ハドウシーカー」BOX",
-  "exclusive": false,
-  "charge": false,
-  "store": "ハレツー通販",
-  "kind": "抽選",
-  "receipt": "配送あり",
-  "url": "https://livepocket.jp/e/s191v",
-  "platform": "LivePocket",
-  "path": "c/ハレツー通販/ポケカ-mega-拡張パック-ハドウシーカー-box-e31ac4"
- },
- {
-  "deadline": "2026-11-11T23:59:00+09:00",
-  "has_time": true,
-  "start": "2026-11-03T23:59:00+09:00",
-  "start_has_time": false,
-  "product": "ワンピカ ブースターパック「神の支配」【OP-18】1BOX 予約抽選",
-  "exclusive": false,
-  "charge": false,
-  "store": "ワンハッピー",
-  "kind": "抽選",
-  "receipt": "受取方法は公式で確認",
-  "url": "https://docs.google.com/forms/d/e/1FAIpQLSc33AhJDq7aOk9-nJBXfunDjeCEJ4epACB-Wlwu1-jQ5dMyzg/viewform",
-  "platform": "Googleフォーム",
-  "path": "c/ワンハッピー/ワンピカ-ブースターパック-神の支配-op-18-1box-予約抽選-6cd8e6"
- },
- {
-  "deadline": "2026-11-11T23:59:00+09:00",
-  "has_time": true,
-  "start": null,
-  "start_has_time": false,
-  "product": "ワンピカ OP-18「神の支配」",
-  "exclusive": false,
-  "charge": false,
-  "store": "ドラゴンスター 通販",
-  "kind": "抽選",
-  "receipt": "配送あり",
-  "url": "https://dorasuta.membercard.jp/lottery-entry?ekey=ZWg0OWU0dnNud1g3QVVSR1B2ZVlNUT09",
-  "platform": "dorasuta.membercard.jp",
-  "path": "c/ドラゴンスター-通販/ワンピカ-op-18-神の支配-abe32b"
- },
- {
   "deadline": "2026-11-12T21:30:00+09:00",
   "has_time": true,
   "start": null,
@@ -55,6 +10,12 @@
   "store": "ヤマシロヤ オンライン",
   "kind": "抽選",
   "receipt": "配送あり",
+  "cond": {
+   "member": "会員登録が必要（申込フォームで会員情報を入力）",
+   "past": "過去の購入実績は条件なし",
+   "idv": null,
+   "other": []
+  },
   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfL8s2V2iGQ4uZYHfO8ckZG23OiggPZ_0HAxgf_i7G39AkeRA/viewform",
   "platform": "Googleフォーム",
   "path": "c/ヤマシロヤ-オンライン/ワンピカ-op-18-神の支配-box-931145"
@@ -69,7 +30,13 @@
   "charge": false,
   "store": "ドラゴンスター 池袋店",
   "kind": "抽選",
-  "receipt": "受取方法は公式で確認",
+  "receipt": "店頭受取",
+  "cond": {
+   "member": null,
+   "past": null,
+   "idv": null,
+   "other": []
+  },
   "url": "https://dorasuta.membercard.jp/lottery-entry?ekey=aWZZL1VlWGRFWC9KNU91MVI1M2VRZz09",
   "platform": "dorasuta.membercard.jp",
   "path": "c/ドラゴンスター-池袋店/ワンピカ-op-18-神の支配-1box-3cee2c"
@@ -84,7 +51,13 @@
   "charge": false,
   "store": "ドラゴンスター 秋葉原本店",
   "kind": "抽選",
-  "receipt": "受取方法は公式で確認",
+  "receipt": "店頭受取",
+  "cond": {
+   "member": null,
+   "past": null,
+   "idv": null,
+   "other": []
+  },
   "url": "https://dorasuta.membercard.jp/lottery-entry?ekey=cHl2UTFBM1c1ZURTWk9kTDNSMGwwdz09",
   "platform": "dorasuta.membercard.jp",
   "path": "c/ドラゴンスター-秋葉原本店/ワンピカ-op-18-神の支配-1box-ed16ac"
@@ -99,7 +72,13 @@
   "charge": false,
   "store": "ドラゴンスター 秋葉原駅前店",
   "kind": "抽選",
-  "receipt": "受取方法は公式で確認",
+  "receipt": "店頭受取",
+  "cond": {
+   "member": null,
+   "past": null,
+   "idv": null,
+   "other": []
+  },
   "url": "https://dorasuta.membercard.jp/lottery-entry?ekey=VGlpQmt6OEt4VWV0OUVGVlFVeDFzUT09",
   "platform": "dorasuta.membercard.jp",
   "path": "c/ドラゴンスター-秋葉原駅前店/ワンピカ-op-18-神の支配-1box-e90e6f"
@@ -114,7 +93,15 @@
   "charge": false,
   "store": "ドラゴンスター 池袋店",
   "kind": "抽選",
-  "receipt": "受取方法は公式で確認",
+  "receipt": "店頭受取",
+  "cond": {
+   "member": null,
+   "past": null,
+   "idv": null,
+   "other": [
+    "申込フォームでプレイヤーIDの入力を求められることがある"
+   ]
+  },
   "url": "https://dorasuta.membercard.jp/lottery-entry?ekey=V3Zub0QyR2VhbkswQU1WOWhIWFNjQT09",
   "platform": "dorasuta.membercard.jp",
   "path": "c/ドラゴンスター-池袋店/ポケカ-ハドウシーカー-1box-d2d8d3"
@@ -129,7 +116,15 @@
   "charge": false,
   "store": "ドラゴンスター 秋葉原本店",
   "kind": "抽選",
-  "receipt": "受取方法は公式で確認",
+  "receipt": "店頭受取",
+  "cond": {
+   "member": null,
+   "past": null,
+   "idv": null,
+   "other": [
+    "申込フォームでプレイヤーIDの入力を求められることがある"
+   ]
+  },
   "url": "https://dorasuta.membercard.jp/lottery-entry?ekey=QmF5Vi82eWUvSlQzZFg2ZnFnS1M2QT09",
   "platform": "dorasuta.membercard.jp",
   "path": "c/ドラゴンスター-秋葉原本店/ポケカ-ハドウシーカー-1box-de0475"
@@ -144,7 +139,15 @@
   "charge": false,
   "store": "ドラゴンスター 秋葉原駅前店",
   "kind": "抽選",
-  "receipt": "受取方法は公式で確認",
+  "receipt": "店頭受取",
+  "cond": {
+   "member": null,
+   "past": null,
+   "idv": null,
+   "other": [
+    "申込フォームでプレイヤーIDの入力を求められることがある"
+   ]
+  },
   "url": "https://dorasuta.membercard.jp/lottery-entry?ekey=L1N4Uys1VEJobjRCWkJxb29MQ3I3dz09",
   "platform": "dorasuta.membercard.jp",
   "path": "c/ドラゴンスター-秋葉原駅前店/ポケカ-ハドウシーカー-1box-45f73b"
@@ -160,6 +163,14 @@
   "store": "torevi",
   "kind": "抽選",
   "receipt": "配送あり",
+  "cond": {
+   "member": "LivePocketの会員登録（アカウント）が必要",
+   "past": null,
+   "idv": null,
+   "other": [
+    "Xのフォローが必須"
+   ]
+  },
   "url": "https://livepocket.jp/e/ufbho",
   "platform": "LivePocket",
   "path": "c/torevi/ポケカ-mega-拡張パック-30th-celebration-1box-抽選販-f96eac"
@@ -175,9 +186,39 @@
   "store": "ドラゴンスター モバイル会員限定",
   "kind": "抽選",
   "receipt": "店頭受取",
+  "cond": {
+   "member": "会員登録が必要",
+   "past": null,
+   "idv": null,
+   "other": []
+  },
   "url": "https://dorasuta.membercard.jp/lottery",
   "platform": "dorasuta.membercard.jp",
   "path": "c/ドラゴンスター-モバイル会員限定/ワンピカ-eb-heroines-edition-vol-2-1box-bb1b1e"
+ },
+ {
+  "deadline": "2026-11-15T11:59:00+09:00",
+  "has_time": true,
+  "start": null,
+  "start_has_time": false,
+  "product": "ポケカ MEGA 拡張パック ハドウシーカー 1BOX",
+  "exclusive": false,
+  "charge": false,
+  "store": "フルコンプ",
+  "kind": "抽選",
+  "receipt": "受取方法は公式で確認",
+  "cond": {
+   "member": "LivePocketの会員登録（アカウント）が必要",
+   "past": "過去の購入実績は条件なし",
+   "idv": "受取時にマイナンバーカード（実物）が必要",
+   "other": [
+    "ポケモンカード プレイヤーズクラブのIDが必要",
+    "携帯番号認証が必要"
+   ]
+  },
+  "url": "https://livepocket.jp/e/5wd-s",
+  "platform": "LivePocket",
+  "path": "c/フルコンプ/ポケカ-mega-拡張パック-ハドウシーカー-1box-2fb1da"
  },
  {
   "deadline": "2026-11-15T23:59:00+09:00",
@@ -190,6 +231,12 @@
   "store": "アニメイトオンライン",
   "kind": "抽選",
   "receipt": "配送あり",
+  "cond": {
+   "member": null,
+   "past": null,
+   "idv": null,
+   "other": []
+  },
   "url": "https://www.animate-onlineshop.jp/products/detail.php?product_id=3592097",
   "platform": "animate-onlineshop.jp",
   "path": "c/アニメイトオンライン/ワンピカ-op-18-神の支配-1box-ec6a0e"
@@ -205,6 +252,12 @@
   "store": "ナムコパークス オンラインストア",
   "kind": "抽選",
   "receipt": "店頭受取",
+  "cond": {
+   "member": null,
+   "past": null,
+   "idv": null,
+   "other": []
+  },
   "url": "https://parks2.bandainamco-am.co.jp/category/ECCL00000061/",
   "platform": "parks2.bandainamco-am.co.jp",
   "path": "c/ナムコパークス-オンラインストア/ワンピカ-op-18-神の支配-購入権チケット抽選-dfb4a5"
@@ -220,6 +273,14 @@
   "store": "TierOne ティアワン渋谷",
   "kind": "抽選",
   "receipt": "店頭受取",
+  "cond": {
+   "member": null,
+   "past": null,
+   "idv": null,
+   "other": [
+    "1人1回まで"
+   ]
+  },
   "url": "https://docs.google.com/forms/d/e/1FAIpQLScR4t-dWRtCdmJOoHI_piRBkYmGAvHdC2lzIHXWO4Fy-G60Fw/viewform",
   "platform": "Googleフォーム",
   "path": "c/tierone-ティアワン渋谷/ワンピカ-ブースターパック-神の支配-op-18-1box-抽選-857241"
@@ -235,6 +296,14 @@
   "store": "プレミアムバンダイ",
   "kind": "受注販売",
   "receipt": "配送あり",
+  "cond": {
+   "member": null,
+   "past": null,
+   "idv": null,
+   "other": [
+    "15歳以上"
+   ]
+  },
   "url": "https://p-bandai.jp",
   "platform": "プレミアムバンダイ",
   "path": "c/プレミアムバンダイ/ワンピカ-luffy-s-商品-258404"

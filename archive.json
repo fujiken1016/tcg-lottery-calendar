@@ -413,7 +413,15 @@
   "start_has_time": false,
   "exclusive": false,
   "charge": false,
-  "last_seen": "2026-11-11"
+  "cond": {
+   "member": null,
+   "past": null,
+   "idv": null,
+   "other": [
+    "1人1回まで"
+   ]
+  },
+  "last_seen": "2026-11-12"
  },
  "c/tokyo-otaku-mode/ポケカ-mega-拡張パック-30th-celebration-1box-送料-252126": {
   "product": "ポケカ MEGA ①拡張パック「30th CELEBRATION」1BOX ＋送料 ②「30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー」＋送料",
@@ -479,7 +487,15 @@
   "start_has_time": true,
   "exclusive": false,
   "charge": false,
-  "last_seen": "2026-11-11"
+  "cond": {
+   "member": "LivePocketの会員登録（アカウント）が必要",
+   "past": null,
+   "idv": null,
+   "other": [
+    "Xのフォローが必須"
+   ]
+  },
+  "last_seen": "2026-11-12"
  },
  "c/tsutaya-trading-card-錦糸町/ポケカ-スペシャルデッキセットmega-抽選-9c2c46": {
   "product": "ポケカ スペシャルデッキセットMEGA 抽選",
@@ -596,7 +612,13 @@
   "start_has_time": true,
   "exclusive": false,
   "charge": true,
-  "last_seen": "2026-11-11"
+  "cond": {
+   "member": null,
+   "past": null,
+   "idv": null,
+   "other": []
+  },
+  "last_seen": "2026-11-12"
  },
  "c/カーデリア池袋店/dbfw-ブースターパック-brightness-of-hope-fb11-1b-aaae08": {
   "product": "DBFW ブースターパック「BRIGHTNESS OF HOPE」【FB11】1BOX",
@@ -941,13 +963,19 @@
   "start_has_time": false,
   "exclusive": false,
   "charge": false,
-  "last_seen": "2026-11-11"
+  "cond": {
+   "member": "会員登録が必要",
+   "past": null,
+   "idv": null,
+   "other": []
+  },
+  "last_seen": "2026-11-12"
  },
  "c/ドラゴンスター-池袋店/ポケカ-ハドウシーカー-1box-d2d8d3": {
   "product": "ポケカ「ハドウシーカー」1BOX",
   "store": "ドラゴンスター 池袋店",
   "kind": "抽選",
-  "receipt": "受取方法は公式で確認",
+  "receipt": "店頭受取",
   "platform": "dorasuta.membercard.jp",
   "url": "https://dorasuta.membercard.jp/lottery-entry?ekey=V3Zub0QyR2VhbkswQU1WOWhIWFNjQT09",
   "has_time": true,
@@ -956,13 +984,21 @@
   "start_has_time": false,
   "exclusive": false,
   "charge": false,
-  "last_seen": "2026-11-11"
+  "cond": {
+   "member": null,
+   "past": null,
+   "idv": null,
+   "other": [
+    "申込フォームでプレイヤーIDの入力を求められることがある"
+   ]
+  },
+  "last_seen": "2026-11-12"
  },
  "c/ドラゴンスター-池袋店/ワンピカ-op-18-神の支配-1box-3cee2c": {
   "product": "ワンピカ OP-18「神の支配」1BOX",
   "store": "ドラゴンスター 池袋店",
   "kind": "抽選",
-  "receipt": "受取方法は公式で確認",
+  "receipt": "店頭受取",
   "platform": "dorasuta.membercard.jp",
   "url": "https://dorasuta.membercard.jp/lottery-entry?ekey=aWZZL1VlWGRFWC9KNU91MVI1M2VRZz09",
   "has_time": true,
@@ -971,13 +1007,19 @@
   "start_has_time": false,
   "exclusive": false,
   "charge": false,
-  "last_seen": "2026-11-11"
+  "cond": {
+   "member": null,
+   "past": null,
+   "idv": null,
+   "other": []
+  },
+  "last_seen": "2026-11-12"
  },
  "c/ドラゴンスター-秋葉原本店/ポケカ-ハドウシーカー-1box-de0475": {
   "product": "ポケカ「ハドウシーカー」1BOX",
   "store": "ドラゴンスター 秋葉原本店",
   "kind": "抽選",
-  "receipt": "受取方法は公式で確認",
+  "receipt": "店頭受取",
   "platform": "dorasuta.membercard.jp",
   "url": "https://dorasuta.membercard.jp/lottery-entry?ekey=QmF5Vi82eWUvSlQzZFg2ZnFnS1M2QT09",
   "has_time": true,
@@ -986,13 +1028,21 @@
   "start_has_time": false,
   "exclusive": false,
   "charge": false,
-  "last_seen": "2026-11-11"
+  "cond": {
+   "member": null,
+   "past": null,
+   "idv": null,
+   "other": [
+    "申込フォームでプレイヤーIDの入力を求められることがある"
+   ]
+  },
+  "last_seen": "2026-11-12"
  },
  "c/ドラゴンスター-秋葉原本店/ワンピカ-op-18-神の支配-1box-ed16ac": {
   "product": "ワンピカ OP-18「神の支配」1BOX",
   "store": "ドラゴンスター 秋葉原本店",
   "kind": "抽選",
-  "receipt": "受取方法は公式で確認",
+  "receipt": "店頭受取",
   "platform": "dorasuta.membercard.jp",
   "url": "https://dorasuta.membercard.jp/lottery-entry?ekey=cHl2UTFBM1c1ZURTWk9kTDNSMGwwdz09",
   "has_time": true,
@@ -1001,13 +1051,19 @@
   "start_has_time": false,
   "exclusive": false,
   "charge": false,
-  "last_seen": "2026-11-11"
+  "cond": {
+   "member": null,
+   "past": null,
+   "idv": null,
+   "other": []
+  },
+  "last_seen": "2026-11-12"
  },
  "c/ドラゴンスター-秋葉原駅前店/ポケカ-ハドウシーカー-1box-45f73b": {
   "product": "ポケカ「ハドウシーカー」1BOX",
   "store": "ドラゴンスター 秋葉原駅前店",
   "kind": "抽選",
-  "receipt": "受取方法は公式で確認",
+  "receipt": "店頭受取",
   "platform": "dorasuta.membercard.jp",
   "url": "https://dorasuta.membercard.jp/lottery-entry?ekey=L1N4Uys1VEJobjRCWkJxb29MQ3I3dz09",
   "has_time": true,
@@ -1016,13 +1072,21 @@
   "start_has_time": false,
   "exclusive": false,
   "charge": false,
-  "last_seen": "2026-11-11"
+  "cond": {
+   "member": null,
+   "past": null,
+   "idv": null,
+   "other": [
+    "申込フォームでプレイヤーIDの入力を求められることがある"
+   ]
+  },
+  "last_seen": "2026-11-12"
  },
  "c/ドラゴンスター-秋葉原駅前店/ワンピカ-op-18-神の支配-1box-e90e6f": {
   "product": "ワンピカ OP-18「神の支配」1BOX",
   "store": "ドラゴンスター 秋葉原駅前店",
   "kind": "抽選",
-  "receipt": "受取方法は公式で確認",
+  "receipt": "店頭受取",
   "platform": "dorasuta.membercard.jp",
   "url": "https://dorasuta.membercard.jp/lottery-entry?ekey=VGlpQmt6OEt4VWV0OUVGVlFVeDFzUT09",
   "has_time": true,
@@ -1031,7 +1095,13 @@
   "start_has_time": false,
   "exclusive": false,
   "charge": false,
-  "last_seen": "2026-11-11"
+  "cond": {
+   "member": null,
+   "past": null,
+   "idv": null,
+   "other": []
+  },
+  "last_seen": "2026-11-12"
  },
  "c/ドラゴンスター-通販/ワンピカ-op-18-神の支配-abe32b": {
   "product": "ワンピカ OP-18「神の支配」",
@@ -1073,7 +1143,13 @@
   "start_has_time": true,
   "exclusive": false,
   "charge": false,
-  "last_seen": "2026-11-11"
+  "cond": {
+   "member": null,
+   "past": null,
+   "idv": null,
+   "other": []
+  },
+  "last_seen": "2026-11-12"
  },
  "c/ハレツー通販/ポケカ-mega-拡張パック-ハドウシーカー-box-e31ac4": {
   "product": "ポケカ MEGA 拡張パック「ハドウシーカー」BOX",
@@ -1152,6 +1228,30 @@
   "start": "2026-09-05T12:40:00+09:00",
   "store": "フルコンプ",
   "url": "https://livepocket.jp/e/thb-n"
+ },
+ "c/フルコンプ/ポケカ-mega-拡張パック-ハドウシーカー-1box-2fb1da": {
+  "product": "ポケカ MEGA 拡張パック ハドウシーカー 1BOX",
+  "store": "フルコンプ",
+  "kind": "抽選",
+  "receipt": "受取方法は公式で確認",
+  "platform": "LivePocket",
+  "url": "https://livepocket.jp/e/5wd-s",
+  "has_time": true,
+  "deadline": "2026-11-15T11:59:00+09:00",
+  "start": null,
+  "start_has_time": false,
+  "exclusive": false,
+  "charge": false,
+  "cond": {
+   "member": "LivePocketの会員登録（アカウント）が必要",
+   "past": "過去の購入実績は条件なし",
+   "idv": "受取時にマイナンバーカード（実物）が必要",
+   "other": [
+    "ポケモンカード プレイヤーズクラブのIDが必要",
+    "携帯番号認証が必要"
+   ]
+  },
+  "last_seen": "2026-11-12"
  },
  "c/フルコンプ/ポケカ-再販商品購入権-抽選-6f9d13": {
   "product": "ポケカ 再販商品購入権 抽選",
@@ -1232,7 +1332,15 @@
   "start_has_time": false,
   "exclusive": false,
   "charge": false,
-  "last_seen": "2026-11-11"
+  "cond": {
+   "member": null,
+   "past": null,
+   "idv": null,
+   "other": [
+    "15歳以上"
+   ]
+  },
+  "last_seen": "2026-11-12"
  },
  "c/プレミアムバンダイ/ワンピカ-プレミアムカードコレクション-one-piece-day-26-3次予-613a2c": {
   "product": "ワンピカ プレミアムカードコレクション -ONE PIECE DAY'26-【3次予約】",
@@ -1364,7 +1472,13 @@
   "start_has_time": false,
   "exclusive": false,
   "charge": false,
-  "last_seen": "2026-11-11"
+  "cond": {
+   "member": "会員登録が必要（申込フォームで会員情報を入力）",
+   "past": "過去の購入実績は条件なし",
+   "idv": null,
+   "other": []
+  },
+  "last_seen": "2026-11-12"
  },
  "c/ヤマシロヤ-オンライン/ワンピカ-再販4種-box-各-4bb28a": {
   "product": "ワンピカ 再販4種 BOX 各",
