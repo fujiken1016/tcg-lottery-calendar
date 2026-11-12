@@ -1,156 +1,24 @@
 [
  {
-  "deadline": "2026-11-12T21:30:00+09:00",
+  "deadline": "2026-11-13T11:59:00+09:00",
   "has_time": true,
   "start": null,
   "start_has_time": false,
-  "product": "ワンピカ OP-18「神の支配」BOX",
+  "product": "ポケカ MEGA 拡張パック ハドウシーカー 1BOX ＋送料・1人1点",
   "exclusive": false,
   "charge": false,
-  "store": "ヤマシロヤ オンライン",
+  "store": "イトーヨーカドーネット通販",
   "kind": "抽選",
   "receipt": "配送あり",
   "cond": {
-   "member": "会員登録が必要（申込フォームで会員情報を入力）",
-   "past": "過去の購入実績は条件なし",
-   "idv": null,
-   "other": []
-  },
-  "url": "https://docs.google.com/forms/d/e/1FAIpQLSfL8s2V2iGQ4uZYHfO8ckZG23OiggPZ_0HAxgf_i7G39AkeRA/viewform",
-  "platform": "Googleフォーム",
-  "path": "c/ヤマシロヤ-オンライン/ワンピカ-op-18-神の支配-box-931145"
- },
- {
-  "deadline": "2026-11-13T00:00:00+09:00",
-  "has_time": true,
-  "start": null,
-  "start_has_time": false,
-  "product": "ワンピカ OP-18「神の支配」1BOX",
-  "exclusive": false,
-  "charge": false,
-  "store": "ドラゴンスター 池袋店",
-  "kind": "抽選",
-  "receipt": "店頭受取",
-  "cond": {
    "member": null,
    "past": null,
    "idv": null,
    "other": []
   },
-  "url": "https://dorasuta.membercard.jp/lottery-entry?ekey=aWZZL1VlWGRFWC9KNU91MVI1M2VRZz09",
-  "platform": "dorasuta.membercard.jp",
-  "path": "c/ドラゴンスター-池袋店/ワンピカ-op-18-神の支配-1box-3cee2c"
- },
- {
-  "deadline": "2026-11-13T00:00:00+09:00",
-  "has_time": true,
-  "start": null,
-  "start_has_time": false,
-  "product": "ワンピカ OP-18「神の支配」1BOX",
-  "exclusive": false,
-  "charge": false,
-  "store": "ドラゴンスター 秋葉原本店",
-  "kind": "抽選",
-  "receipt": "店頭受取",
-  "cond": {
-   "member": null,
-   "past": null,
-   "idv": null,
-   "other": []
-  },
-  "url": "https://dorasuta.membercard.jp/lottery-entry?ekey=cHl2UTFBM1c1ZURTWk9kTDNSMGwwdz09",
-  "platform": "dorasuta.membercard.jp",
-  "path": "c/ドラゴンスター-秋葉原本店/ワンピカ-op-18-神の支配-1box-ed16ac"
- },
- {
-  "deadline": "2026-11-13T00:00:00+09:00",
-  "has_time": true,
-  "start": null,
-  "start_has_time": false,
-  "product": "ワンピカ OP-18「神の支配」1BOX",
-  "exclusive": false,
-  "charge": false,
-  "store": "ドラゴンスター 秋葉原駅前店",
-  "kind": "抽選",
-  "receipt": "店頭受取",
-  "cond": {
-   "member": null,
-   "past": null,
-   "idv": null,
-   "other": []
-  },
-  "url": "https://dorasuta.membercard.jp/lottery-entry?ekey=VGlpQmt6OEt4VWV0OUVGVlFVeDFzUT09",
-  "platform": "dorasuta.membercard.jp",
-  "path": "c/ドラゴンスター-秋葉原駅前店/ワンピカ-op-18-神の支配-1box-e90e6f"
- },
- {
-  "deadline": "2026-11-13T00:00:00+09:00",
-  "has_time": true,
-  "start": null,
-  "start_has_time": false,
-  "product": "ポケカ「ハドウシーカー」1BOX",
-  "exclusive": false,
-  "charge": false,
-  "store": "ドラゴンスター 池袋店",
-  "kind": "抽選",
-  "receipt": "店頭受取",
-  "cond": {
-   "member": null,
-   "past": null,
-   "idv": null,
-   "other": [
-    "申込フォームでプレイヤーIDの入力を求められることがある"
-   ]
-  },
-  "url": "https://dorasuta.membercard.jp/lottery-entry?ekey=V3Zub0QyR2VhbkswQU1WOWhIWFNjQT09",
-  "platform": "dorasuta.membercard.jp",
-  "path": "c/ドラゴンスター-池袋店/ポケカ-ハドウシーカー-1box-d2d8d3"
- },
- {
-  "deadline": "2026-11-13T00:00:00+09:00",
-  "has_time": true,
-  "start": null,
-  "start_has_time": false,
-  "product": "ポケカ「ハドウシーカー」1BOX",
-  "exclusive": false,
-  "charge": false,
-  "store": "ドラゴンスター 秋葉原本店",
-  "kind": "抽選",
-  "receipt": "店頭受取",
-  "cond": {
-   "member": null,
-   "past": null,
-   "idv": null,
-   "other": [
-    "申込フォームでプレイヤーIDの入力を求められることがある"
-   ]
-  },
-  "url": "https://dorasuta.membercard.jp/lottery-entry?ekey=QmF5Vi82eWUvSlQzZFg2ZnFnS1M2QT09",
-  "platform": "dorasuta.membercard.jp",
-  "path": "c/ドラゴンスター-秋葉原本店/ポケカ-ハドウシーカー-1box-de0475"
- },
- {
-  "deadline": "2026-11-13T00:00:00+09:00",
-  "has_time": true,
-  "start": null,
-  "start_has_time": false,
-  "product": "ポケカ「ハドウシーカー」1BOX",
-  "exclusive": false,
-  "charge": false,
-  "store": "ドラゴンスター 秋葉原駅前店",
-  "kind": "抽選",
-  "receipt": "店頭受取",
-  "cond": {
-   "member": null,
-   "past": null,
-   "idv": null,
-   "other": [
-    "申込フォームでプレイヤーIDの入力を求められることがある"
-   ]
-  },
-  "url": "https://dorasuta.membercard.jp/lottery-entry?ekey=L1N4Uys1VEJobjRCWkJxb29MQ3I3dz09",
-  "platform": "dorasuta.membercard.jp",
-  "path": "c/ドラゴンスター-秋葉原駅前店/ポケカ-ハドウシーカー-1box-45f73b"
+  "url": "https://iyec.itoyokado.co.jp/shop/pages/apply_pomega_04.aspx",
+  "platform": "iyec.itoyokado.co.jp",
+  "path": "c/イトーヨーカドーネット通販/ポケカ-mega-拡張パック-ハドウシーカー-1box-送料-1人1点-06ef24"
  },
  {
   "deadline": "2026-11-13T21:00:00+09:00",
@@ -176,6 +44,27 @@
   "path": "c/torevi/ポケカ-mega-拡張パック-30th-celebration-1box-抽選販-f96eac"
  },
  {
+  "deadline": "2026-11-13T21:00:00+09:00",
+  "has_time": true,
+  "start": null,
+  "start_has_time": false,
+  "product": "ワンピカ OP-17 世界最強の戦士【再販】BOX ・1人1箱",
+  "exclusive": false,
+  "charge": false,
+  "store": "カードキングダム秋葉原駅前店4階",
+  "kind": "抽選",
+  "receipt": "店頭受取",
+  "cond": {
+   "member": null,
+   "past": null,
+   "idv": null,
+   "other": []
+  },
+  "url": "https://livepocket.jp/e/08pdi",
+  "platform": "LivePocket",
+  "path": "c/カードキングダム秋葉原駅前店4階/ワンピカ-op-17-世界最強の戦士-再販-box-1人1箱-78f9bb"
+ },
+ {
   "deadline": "2026-11-13T23:59:00+09:00",
   "has_time": true,
   "start": null,
@@ -195,6 +84,27 @@
   "url": "https://dorasuta.membercard.jp/lottery",
   "platform": "dorasuta.membercard.jp",
   "path": "c/ドラゴンスター-モバイル会員限定/ワンピカ-eb-heroines-edition-vol-2-1box-bb1b1e"
+ },
+ {
+  "deadline": "2026-11-13T23:59:00+09:00",
+  "has_time": true,
+  "start": null,
+  "start_has_time": false,
+  "product": "ポケカ メガブレイブ／メガシンフォニア 抽選",
+  "exclusive": false,
+  "charge": false,
+  "store": "ドラスタ通販",
+  "kind": "抽選",
+  "receipt": "配送あり",
+  "cond": {
+   "member": "会員登録が必要",
+   "past": null,
+   "idv": null,
+   "other": []
+  },
+  "url": "https://dorasuta.membercard.jp/lottery",
+  "platform": "dorasuta.membercard.jp",
+  "path": "c/ドラスタ通販/ポケカ-メガブレイブ-メガシンフォニア-抽選-d6623a"
  },
  {
   "deadline": "2026-11-15T11:59:00+09:00",
