@@ -1,112 +1,5 @@
 [
  {
-  "deadline": "2026-11-13T11:59:00+09:00",
-  "has_time": true,
-  "start": null,
-  "start_has_time": false,
-  "product": "ポケカ MEGA 拡張パック ハドウシーカー 1BOX ＋送料・1人1点",
-  "exclusive": false,
-  "charge": false,
-  "store": "イトーヨーカドーネット通販",
-  "kind": "抽選",
-  "receipt": "配送あり",
-  "cond": {
-   "member": null,
-   "past": null,
-   "idv": null,
-   "other": []
-  },
-  "url": "https://iyec.itoyokado.co.jp/shop/pages/apply_pomega_04.aspx",
-  "platform": "iyec.itoyokado.co.jp",
-  "path": "c/イトーヨーカドーネット通販/ポケカ-mega-拡張パック-ハドウシーカー-1box-送料-1人1点-06ef24"
- },
- {
-  "deadline": "2026-11-13T21:00:00+09:00",
-  "has_time": true,
-  "start": "2026-11-05T22:00:00+09:00",
-  "start_has_time": true,
-  "product": "ポケカ MEGA 拡張パック「30th CELEBRATION」1BOX 抽選販売",
-  "exclusive": false,
-  "charge": false,
-  "store": "torevi",
-  "kind": "抽選",
-  "receipt": "配送あり",
-  "cond": {
-   "member": "LivePocketの会員登録（アカウント）が必要",
-   "past": null,
-   "idv": null,
-   "other": [
-    "Xのフォローが必須"
-   ]
-  },
-  "url": "https://livepocket.jp/e/ufbho",
-  "platform": "LivePocket",
-  "path": "c/torevi/ポケカ-mega-拡張パック-30th-celebration-1box-抽選販-f96eac"
- },
- {
-  "deadline": "2026-11-13T21:00:00+09:00",
-  "has_time": true,
-  "start": null,
-  "start_has_time": false,
-  "product": "ワンピカ OP-17 世界最強の戦士【再販】BOX ・1人1箱",
-  "exclusive": false,
-  "charge": false,
-  "store": "カードキングダム秋葉原駅前店4階",
-  "kind": "抽選",
-  "receipt": "店頭受取",
-  "cond": {
-   "member": null,
-   "past": null,
-   "idv": null,
-   "other": []
-  },
-  "url": "https://livepocket.jp/e/08pdi",
-  "platform": "LivePocket",
-  "path": "c/カードキングダム秋葉原駅前店4階/ワンピカ-op-17-世界最強の戦士-再販-box-1人1箱-78f9bb"
- },
- {
-  "deadline": "2026-11-13T23:59:00+09:00",
-  "has_time": true,
-  "start": null,
-  "start_has_time": false,
-  "product": "ワンピカ EB「Heroines Edition vol.2」1BOX",
-  "exclusive": false,
-  "charge": false,
-  "store": "ドラゴンスター モバイル会員限定",
-  "kind": "抽選",
-  "receipt": "店頭受取",
-  "cond": {
-   "member": "会員登録が必要",
-   "past": null,
-   "idv": null,
-   "other": []
-  },
-  "url": "https://dorasuta.membercard.jp/lottery",
-  "platform": "dorasuta.membercard.jp",
-  "path": "c/ドラゴンスター-モバイル会員限定/ワンピカ-eb-heroines-edition-vol-2-1box-bb1b1e"
- },
- {
-  "deadline": "2026-11-13T23:59:00+09:00",
-  "has_time": true,
-  "start": null,
-  "start_has_time": false,
-  "product": "ポケカ メガブレイブ／メガシンフォニア 抽選",
-  "exclusive": false,
-  "charge": false,
-  "store": "ドラスタ通販",
-  "kind": "抽選",
-  "receipt": "配送あり",
-  "cond": {
-   "member": "会員登録が必要",
-   "past": null,
-   "idv": null,
-   "other": []
-  },
-  "url": "https://dorasuta.membercard.jp/lottery",
-  "platform": "dorasuta.membercard.jp",
-  "path": "c/ドラスタ通販/ポケカ-メガブレイブ-メガシンフォニア-抽選-d6623a"
- },
- {
   "deadline": "2026-11-15T11:59:00+09:00",
   "has_time": true,
   "start": null,
@@ -171,6 +64,27 @@
   "url": "https://parks2.bandainamco-am.co.jp/category/ECCL00000061/",
   "platform": "parks2.bandainamco-am.co.jp",
   "path": "c/ナムコパークス-オンラインストア/ワンピカ-op-18-神の支配-購入権チケット抽選-dfb4a5"
+ },
+ {
+  "deadline": "2026-11-16T23:59:00+09:00",
+  "has_time": true,
+  "start": null,
+  "start_has_time": false,
+  "product": "ワンピカ OP-18 神の支配 1BOX",
+  "exclusive": false,
+  "charge": false,
+  "store": "トレカプラザ55通販店",
+  "kind": "抽選",
+  "receipt": "配送あり",
+  "cond": {
+   "member": null,
+   "past": null,
+   "idv": null,
+   "other": []
+  },
+  "url": "https://docs.google.com/forms/d/e/1FAIpQLScj9DowDcGc63TrEak69vfiVNInRpFB-Etaar230vEB1tra_g/viewform",
+  "platform": "Googleフォーム",
+  "path": "c/トレカプラザ55通販店/ワンピカ-op-18-神の支配-1box-382a0b"
  },
  {
   "deadline": "2026-11-18T23:59:00+09:00",
