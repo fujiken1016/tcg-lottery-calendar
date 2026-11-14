@@ -61,6 +61,27 @@
   "store": "CARD WINGS秋葉原駅前店",
   "url": "https://livepocket.jp/e/t70c4"
  },
+ "c/card-wings秋葉原駅前店/ワンピカ-神の支配-op-18-2box-8c857a": {
+  "product": "ワンピカ 神の支配【OP-18】2BOX",
+  "store": "CARD WINGS秋葉原駅前店",
+  "kind": "抽選",
+  "receipt": "店頭受取",
+  "platform": "LivePocket",
+  "url": "https://livepocket.jp/e/2qzqe",
+  "has_time": true,
+  "deadline": "2026-11-15T18:59:00+09:00",
+  "start": null,
+  "start_has_time": false,
+  "exclusive": false,
+  "charge": false,
+  "cond": {
+   "member": null,
+   "past": null,
+   "idv": null,
+   "other": []
+  },
+  "last_seen": "2026-11-15"
+ },
  "c/carryme/ポケカ-30th-celebration-futuristic-box-1box-6ffce9": {
   "product": "ポケカ「30th CELEBRATION FUTURISTIC BOX」1BOX",
   "store": "CARRYME",
@@ -421,7 +442,7 @@
     "1人1回まで"
    ]
   },
-  "last_seen": "2026-11-14"
+  "last_seen": "2026-11-15"
  },
  "c/tokyo-otaku-mode/ポケカ-mega-拡張パック-30th-celebration-1box-送料-252126": {
   "product": "ポケカ MEGA ①拡張パック「30th CELEBRATION」1BOX ＋送料 ②「30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー」＋送料",
@@ -551,6 +572,52 @@
   "charge": false,
   "last_seen": "2026-11-08"
  },
+ "c/tsutaya-trading-card北千住/ポケカ-ハドウシーカー-1box購入権-2a4b3c": {
+  "product": "ポケカ ハドウシーカー 1BOX購入権",
+  "store": "TSUTAYA Trading Card北千住",
+  "kind": "抽選",
+  "receipt": "店頭受取",
+  "platform": "LivePocket",
+  "url": "https://livepocket.jp/e/zlqgr",
+  "has_time": true,
+  "deadline": "2026-11-15T20:00:00+09:00",
+  "start": null,
+  "start_has_time": false,
+  "exclusive": false,
+  "charge": false,
+  "cond": {
+   "member": null,
+   "past": null,
+   "idv": null,
+   "other": [
+    "Xのフォローが必須"
+   ]
+  },
+  "last_seen": "2026-11-15"
+ },
+ "c/tsutaya-trading-card北千住/ワンピカ-神の支配-op-18-af477a": {
+  "product": "ワンピカ 神の支配【OP-18】",
+  "store": "TSUTAYA Trading Card北千住",
+  "kind": "抽選",
+  "receipt": "店頭受取",
+  "platform": "LivePocket",
+  "url": "https://livepocket.jp/e/6qklr",
+  "has_time": true,
+  "deadline": "2026-11-15T20:00:00+09:00",
+  "start": null,
+  "start_has_time": false,
+  "exclusive": false,
+  "charge": false,
+  "cond": {
+   "member": null,
+   "past": null,
+   "idv": null,
+   "other": [
+    "Xのフォローが必須"
+   ]
+  },
+  "last_seen": "2026-11-15"
+ },
  "c/vジャンプ-2026年10月特大号のアクセスコー/ワンピカ-応募者全員大サービス-4871b1": {
   "product": "ワンピカ「応募者全員大サービス」",
   "store": "Vジャンプ 2026年10月特大号のアクセスコードで応募",
@@ -618,7 +685,7 @@
    "idv": null,
    "other": []
   },
-  "last_seen": "2026-11-14"
+  "last_seen": "2026-11-15"
  },
  "c/イトーヨーカドーネット通販/ポケカ-mega-拡張パック-ハドウシーカー-1box-送料-1人1点-06ef24": {
   "product": "ポケカ MEGA 拡張パック ハドウシーカー 1BOX ＋送料・1人1点",
@@ -996,7 +1063,7 @@
    "idv": null,
    "other": []
   },
-  "last_seen": "2026-11-14"
+  "last_seen": "2026-11-15"
  },
  "c/トレカプラザ55通販店/ワンピカ-世界最強の戦士-op-17-無職転生-ua54bt-467647": {
   "product": "ワンピカ「世界最強の戦士」【OP-17】／無職転生 UA54BT",
@@ -1233,7 +1300,7 @@
    "idv": null,
    "other": []
   },
-  "last_seen": "2026-11-14"
+  "last_seen": "2026-11-15"
  },
  "c/ハレツー通販/ポケカ-mega-拡張パック-ハドウシーカー-box-e31ac4": {
   "product": "ポケカ MEGA 拡張パック「ハドウシーカー」BOX",
@@ -1335,7 +1402,7 @@
     "携帯番号認証が必要"
    ]
   },
-  "last_seen": "2026-11-14"
+  "last_seen": "2026-11-15"
  },
  "c/フルコンプ/ポケカ-再販商品購入権-抽選-6f9d13": {
   "product": "ポケカ 再販商品購入権 抽選",
@@ -1424,7 +1491,7 @@
     "15歳以上"
    ]
   },
-  "last_seen": "2026-11-14"
+  "last_seen": "2026-11-15"
  },
  "c/プレミアムバンダイ/ワンピカ-プレミアムカードコレクション-one-piece-day-26-3次予-613a2c": {
   "product": "ワンピカ プレミアムカードコレクション -ONE PIECE DAY'26-【3次予約】",

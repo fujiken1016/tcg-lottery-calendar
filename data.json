@@ -24,6 +24,73 @@
   "path": "c/フルコンプ/ポケカ-mega-拡張パック-ハドウシーカー-1box-2fb1da"
  },
  {
+  "deadline": "2026-11-15T18:59:00+09:00",
+  "has_time": true,
+  "start": null,
+  "start_has_time": false,
+  "product": "ワンピカ 神の支配【OP-18】2BOX",
+  "exclusive": false,
+  "charge": false,
+  "store": "CARD WINGS秋葉原駅前店",
+  "kind": "抽選",
+  "receipt": "店頭受取",
+  "cond": {
+   "member": null,
+   "past": null,
+   "idv": null,
+   "other": []
+  },
+  "url": "https://livepocket.jp/e/2qzqe",
+  "platform": "LivePocket",
+  "path": "c/card-wings秋葉原駅前店/ワンピカ-神の支配-op-18-2box-8c857a"
+ },
+ {
+  "deadline": "2026-11-15T20:00:00+09:00",
+  "has_time": true,
+  "start": null,
+  "start_has_time": false,
+  "product": "ポケカ ハドウシーカー 1BOX購入権",
+  "exclusive": false,
+  "charge": false,
+  "store": "TSUTAYA Trading Card北千住",
+  "kind": "抽選",
+  "receipt": "店頭受取",
+  "cond": {
+   "member": null,
+   "past": null,
+   "idv": null,
+   "other": [
+    "Xのフォローが必須"
+   ]
+  },
+  "url": "https://livepocket.jp/e/zlqgr",
+  "platform": "LivePocket",
+  "path": "c/tsutaya-trading-card北千住/ポケカ-ハドウシーカー-1box購入権-2a4b3c"
+ },
+ {
+  "deadline": "2026-11-15T20:00:00+09:00",
+  "has_time": true,
+  "start": null,
+  "start_has_time": false,
+  "product": "ワンピカ 神の支配【OP-18】",
+  "exclusive": false,
+  "charge": false,
+  "store": "TSUTAYA Trading Card北千住",
+  "kind": "抽選",
+  "receipt": "店頭受取",
+  "cond": {
+   "member": null,
+   "past": null,
+   "idv": null,
+   "other": [
+    "Xのフォローが必須"
+   ]
+  },
+  "url": "https://livepocket.jp/e/6qklr",
+  "platform": "LivePocket",
+  "path": "c/tsutaya-trading-card北千住/ワンピカ-神の支配-op-18-af477a"
+ },
+ {
   "deadline": "2026-11-15T23:59:00+09:00",
   "has_time": true,
   "start": "2026-11-10T10:00:00+09:00",
