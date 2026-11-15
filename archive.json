@@ -70,15 +70,20 @@
   "url": "https://livepocket.jp/e/2qzqe",
   "has_time": true,
   "deadline": "2026-11-15T18:59:00+09:00",
-  "start": null,
-  "start_has_time": false,
+  "start": "2026-11-14T13:00:00+09:00",
+  "start_has_time": true,
   "exclusive": false,
   "charge": false,
   "cond": {
-   "member": null,
+   "member": "LivePocketの会員登録が必要",
    "past": null,
-   "idv": null,
-   "other": []
+   "idv": "受取時に顔写真付きの身分証明書（学生証を除く）が必要",
+   "other": [
+    "1人1回まで",
+    "申込時の質問への同意が必要",
+    "2BOX単位（数量変更不可）",
+    "上限に達すると予告なく早期終了することがある"
+   ]
   },
   "last_seen": "2026-11-15"
  },
@@ -437,9 +442,11 @@
   "cond": {
    "member": null,
    "past": null,
-   "idv": null,
+   "idv": "受取時にマイナンバーカード（応募内容と完全一致のもの）が必要",
    "other": [
-    "1人1回まで"
+    "1人（一家族）1回まで",
+    "当選連絡はX（DM）で届く（応募時にXアカウントを入力）",
+    "購入は店頭のみ・支払いは現金のみ"
    ]
   },
   "last_seen": "2026-11-15"
@@ -581,16 +588,17 @@
   "url": "https://livepocket.jp/e/zlqgr",
   "has_time": true,
   "deadline": "2026-11-15T20:00:00+09:00",
-  "start": null,
+  "start": "2026-11-14T00:00:00+09:00",
   "start_has_time": false,
   "exclusive": false,
   "charge": false,
   "cond": {
-   "member": null,
+   "member": "LivePocketの会員登録が必要（登録氏名は本人確認書類の表記どおり）",
    "past": null,
-   "idv": null,
+   "idv": "受取時に顔写真付き公的書類（運転免許証かマイナンバーカード）が必要",
    "other": [
-    "Xのフォローが必須"
+    "店のXのフォローが必須（販売時に画面確認あり）",
+    "1人1回まで"
    ]
   },
   "last_seen": "2026-11-15"
@@ -604,16 +612,17 @@
   "url": "https://livepocket.jp/e/6qklr",
   "has_time": true,
   "deadline": "2026-11-15T20:00:00+09:00",
-  "start": null,
+  "start": "2026-11-14T00:00:00+09:00",
   "start_has_time": false,
   "exclusive": false,
   "charge": false,
   "cond": {
-   "member": null,
+   "member": "LivePocketの会員登録が必要（登録氏名は本人確認書類の表記どおり）",
    "past": null,
-   "idv": null,
+   "idv": "受取時に顔写真付き公的書類（運転免許証かマイナンバーカード）が必要",
    "other": [
-    "Xのフォローが必須"
+    "店のXのフォローが必須（販売時に画面確認あり）",
+    "1人1回まで"
    ]
   },
   "last_seen": "2026-11-15"
@@ -1048,7 +1057,7 @@
   "product": "ワンピカ OP-18 神の支配 1BOX",
   "store": "トレカプラザ55通販店",
   "kind": "抽選",
-  "receipt": "配送あり",
+  "receipt": "配送または店頭受取（選択）",
   "platform": "Googleフォーム",
   "url": "https://docs.google.com/forms/d/e/1FAIpQLScj9DowDcGc63TrEak69vfiVNInRpFB-Etaar230vEB1tra_g/viewform",
   "has_time": true,
@@ -1058,10 +1067,14 @@
   "exclusive": false,
   "charge": false,
   "cond": {
-   "member": null,
+   "member": "トレカプラザ55通販店の会員登録が必須",
    "past": null,
    "idv": null,
-   "other": []
+   "other": [
+    "1人1回まで",
+    "当選後は11/19 23:59までに入金（期限超過はキャンセル）",
+    "応募後はフォームを編集できない"
+   ]
   },
   "last_seen": "2026-11-15"
  },
@@ -1287,7 +1300,7 @@
   "kind": "抽選",
   "receipt": "店頭受取",
   "platform": "parks2.bandainamco-am.co.jp",
-  "url": "https://parks2.bandainamco-am.co.jp/category/ECCL00000061/",
+  "url": "https://parks2.bandainamco-am.co.jp/category/ECCL00000062/",
   "has_time": true,
   "deadline": "2026-11-15T23:59:00+09:00",
   "start": "2026-11-11T10:00:00+09:00",
@@ -1295,10 +1308,14 @@
   "exclusive": false,
   "charge": false,
   "cond": {
-   "member": null,
+   "member": "ナムコパークスの会員登録（バンダイナムコID）が必要。登録氏名は本人確認書類の表記どおり",
    "past": null,
-   "idv": null,
-   "other": []
+   "idv": "受取時に購入チケットと本人確認書類の照合がある",
+   "other": [
+    "1人1回・1店舗まで（複数店舗への応募は不可）",
+    "連絡は抽選に通った人にだけメールで届く",
+    "販売時に顔認証で購入回数を確認"
+   ]
   },
   "last_seen": "2026-11-15"
  },
@@ -1384,22 +1401,22 @@
   "product": "ポケカ MEGA 拡張パック ハドウシーカー 1BOX",
   "store": "フルコンプ",
   "kind": "抽選",
-  "receipt": "受取方法は公式で確認",
+  "receipt": "店頭受取",
   "platform": "LivePocket",
   "url": "https://livepocket.jp/e/5wd-s",
   "has_time": true,
   "deadline": "2026-11-15T11:59:00+09:00",
-  "start": null,
+  "start": "2026-11-11T00:00:00+09:00",
   "start_has_time": false,
   "exclusive": false,
   "charge": false,
   "cond": {
-   "member": "LivePocketの会員登録（アカウント）が必要",
+   "member": "LivePocketの会員登録（アカウント）と携帯番号認証が必要",
    "past": "過去の購入実績は条件なし",
    "idv": "受取時にマイナンバーカード（実物）が必要",
    "other": [
     "ポケモンカード プレイヤーズクラブのIDが必要",
-    "携帯番号認証が必要"
+    "対象8店のうち1店のみ応募可（複数店への応募は全て無効）"
    ]
   },
   "last_seen": "2026-11-15"
@@ -1471,15 +1488,15 @@
   "last_seen": "2026-09-15"
  },
  "c/プレミアムバンダイ/ワンピカ-luffy-s-商品-258404": {
-  "product": "ワンピカ「LUFFY's」商品",
+  "product": "ワンピカ LUFFY's ONE PIECE カードゲーム -ドン!!カード-（2次受注・2027年6月発送予定）",
   "store": "プレミアムバンダイ",
   "kind": "受注販売",
   "receipt": "配送あり",
-  "platform": "プレミアムバンダイ",
-  "url": "https://p-bandai.jp",
+  "platform": "魂ウェブ（プレミアムバンダイ）",
+  "url": "https://tamashiiweb.com/item/16245/",
   "has_time": false,
   "deadline": "2026-11-29T23:59:00+09:00",
-  "start": "2026-10-02T23:59:00+09:00",
+  "start": "2026-10-27T00:00:00+09:00",
   "start_has_time": false,
   "exclusive": false,
   "charge": false,
