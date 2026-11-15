@@ -1,57 +1,5 @@
 [
  {
-  "deadline": "2026-11-15T23:59:00+09:00",
-  "has_time": true,
-  "start": "2026-11-10T10:00:00+09:00",
-  "start_has_time": true,
-  "product": "ワンピカ OP-18「神の支配」1BOX",
-  "exclusive": false,
-  "charge": true,
-  "store": "アニメイトオンライン",
-  "kind": "抽選",
-  "receipt": "配送あり",
-  "cond": {
-   "member": null,
-   "past": null,
-   "idv": null,
-   "other": []
-  },
-  "url": "https://www.animate-onlineshop.jp/products/detail.php?product_id=3592097",
-  "platform": "animate-onlineshop.jp",
-  "path": "c/アニメイトオンライン/ワンピカ-op-18-神の支配-1box-ec6a0e",
-  "checked": "2026-11-15",
-  "vstatus": "fail",
-  "vreason": "公式ページが順番待ちの待機室につながり本文を読めなかった"
- },
- {
-  "deadline": "2026-11-15T23:59:00+09:00",
-  "has_time": true,
-  "start": "2026-11-11T10:00:00+09:00",
-  "start_has_time": true,
-  "product": "ワンピカ OP-18「神の支配」購入権チケット抽選",
-  "exclusive": false,
-  "charge": false,
-  "store": "ナムコパークス オンラインストア",
-  "kind": "抽選",
-  "receipt": "店頭受取",
-  "cond": {
-   "member": "ナムコパークスの会員登録（バンダイナムコID）が必要。登録氏名は本人確認書類の表記どおり",
-   "past": null,
-   "idv": "受取時に購入チケットと本人確認書類の照合がある",
-   "other": [
-    "1人1回・1店舗まで（複数店舗への応募は不可）",
-    "連絡は抽選に通った人にだけメールで届く",
-    "販売時に顔認証で購入回数を確認"
-   ]
-  },
-  "url": "https://parks2.bandainamco-am.co.jp/category/ECCL00000062/",
-  "platform": "parks2.bandainamco-am.co.jp",
-  "path": "c/ナムコパークス-オンラインストア/ワンピカ-op-18-神の支配-購入権チケット抽選-dfb4a5",
-  "checked": "2026-11-15",
-  "vstatus": "ok",
-  "vreason": ""
- },
- {
   "deadline": "2026-11-16T23:59:00+09:00",
   "has_time": true,
   "start": null,
