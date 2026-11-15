@@ -11,7 +11,7 @@
 <meta property="og:title" content="ポケカ 30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー｜LivePocketの抽選（受付終了・9/27(日)締切）">
 <meta property="og:description" content="LivePocketの「ポケカ 30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー」抽選。締切 9/27(日)　20:00 JST／受取方法は公式で確認。応募条件は公式ページで確認してください。この受付は終了しています。">
 <meta property="og:url" content="https://fujiken1016.github.io/tcg-lottery-calendar/c/livepocket/%E3%83%9D%E3%82%B1%E3%82%AB-30th-celebration-%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%83%87%E3%83%83%E3%82%AD%E3%82%BB%E3%83%83%E3%83%88-%E3%82%A8%E3%83%BC%E3%83%95%E3%82%A3-%E3%83%96%E3%83%A9-9b2776/">
-<meta name="generated" content="2026-11-15T09:54+09:00">
+<meta name="generated" content="2026-11-15T21:28+09:00">
 <!-- GA4 host-guard J347: 本番ホスト以外(localhost/pages.dev/プレビュー)では計測を送らない -->
 <script>(function(){var w=window;w.dataLayer=w.dataLayer||[];w.gtag=function(){w.dataLayer.push(arguments);};if(!/(^|\.)(mainichi-lab|shoubu-lab)\.com$|^fujiken1016\.github\.io$/.test(location.hostname))return;gtag('js',new Date());gtag('config','G-XRJ40EFR6C');var s=document.createElement('script');s.async=true;s.src='https://www.googletagmanager.com/gtag/js?id=G-XRJ40EFR6C';document.head.appendChild(s);})();</script>
 <script src="../../../oc.js" defer></script>
@@ -111,6 +111,32 @@ footer.site a{display:inline-flex;align-items:center;min-height:48px}
   .kv th{width:auto;font-size:var(--fs-sm)}
   .kv td{padding-top:0}
 }
+
+/* 2026-11-15（J522 手本比較）：一覧を「手本（cardchusen）の型」に寄せる。詳細ページには影響しない新規クラスのみ。 */
+.wrap.wide{max-width:1080px}
+.wrap.wide>:not(.day):not(h2):not(.filters):not(.stats):not(.past-wrap){max-width:680px}
+.day{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,320px),1fr));gap:var(--sp-4);margin:0 0 var(--sp-4)}
+.day .ev{margin:0}
+.tags{display:flex;flex-wrap:wrap;gap:var(--sp-2);margin:0 0 var(--sp-3);padding:0;list-style:none}
+.tags li{margin:0;display:inline-flex;align-items:center;padding:var(--sp-1) var(--sp-3);border-radius:var(--r-sm);border:1px solid var(--line-strong);font-size:var(--fs-sm);background:var(--surface);line-height:1.3}
+.tags .need{border-color:var(--accent);color:var(--accent);font-weight:700}
+.tags .unk{border-style:dashed;color:var(--text-muted)}
+.left{display:none;font-weight:700;color:var(--err);font-size:var(--fs-sm);margin-left:var(--sp-2)}
+.left.on{display:inline}
+.verified{font-size:var(--fs-sm);color:var(--text-muted);margin:0 0 var(--sp-3)}
+.textlink{display:flex;align-items:center;justify-content:center;min-height:48px;font-weight:700;font-size:var(--fs-sm)}
+.filters{margin:0 0 var(--sp-5)}
+.filters summary{min-height:48px;display:flex;align-items:center;cursor:pointer;font-weight:700;color:var(--accent);background:var(--surface);border:1px solid var(--line-strong);border-radius:var(--r-md);padding:0 var(--sp-4)}
+.filters[open] summary{margin-bottom:var(--sp-2)}
+.filters .fh{margin:var(--sp-4) 0 var(--sp-2);font-weight:700;color:var(--text-strong)}
+.fchips{display:flex;flex-wrap:wrap;gap:var(--sp-2);margin:0 0 var(--sp-2);padding:0;list-style:none}
+.fchips button{font:inherit;font-size:var(--fs-sm);min-height:48px;padding:0 var(--sp-4);border-radius:999px;border:1px solid var(--line-strong);background:var(--surface);color:var(--text);cursor:pointer}
+.fchips button[aria-pressed="true"]{background:var(--accent);color:var(--accent-foreground);border-color:var(--accent);font-weight:700}
+.fcount{font-size:var(--fs-sm);color:var(--text-muted);margin:0 0 var(--sp-3)}
+.past-wrap{margin:var(--sp-6) 0 0}
+.past-wrap summary{min-height:48px;display:flex;align-items:center;cursor:pointer;font-weight:700;color:var(--text-muted)}
+.past-wrap .ev.past{opacity:.72}
+[hidden]{display:none !important}
 </style>
 </head>
 <body>
