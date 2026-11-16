@@ -1,33 +1,5 @@
 [
  {
-  "deadline": "2026-11-16T23:59:00+09:00",
-  "has_time": true,
-  "start": null,
-  "start_has_time": false,
-  "product": "ワンピカ OP-18 神の支配 1BOX",
-  "exclusive": false,
-  "charge": false,
-  "store": "トレカプラザ55通販店",
-  "kind": "抽選",
-  "receipt": "配送または店頭受取（選択）",
-  "cond": {
-   "member": "トレカプラザ55通販店の会員登録が必須",
-   "past": null,
-   "idv": null,
-   "other": [
-    "1人1回まで",
-    "当選後は11/19 23:59までに入金（期限超過はキャンセル）",
-    "応募後はフォームを編集できない"
-   ]
-  },
-  "url": "https://docs.google.com/forms/d/e/1FAIpQLScj9DowDcGc63TrEak69vfiVNInRpFB-Etaar230vEB1tra_g/viewform",
-  "platform": "Googleフォーム",
-  "path": "c/トレカプラザ55通販店/ワンピカ-op-18-神の支配-1box-382a0b",
-  "checked": "2026-11-15",
-  "vstatus": "ok",
-  "vreason": ""
- },
- {
   "deadline": "2026-11-18T23:59:00+09:00",
   "has_time": true,
   "start": "2026-11-02T23:59:00+09:00",
