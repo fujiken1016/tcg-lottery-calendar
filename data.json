@@ -1,31 +1,47 @@
 [
  {
-  "deadline": "2026-11-18T23:59:00+09:00",
+  "deadline": "2026-11-22T23:59:00+09:00",
   "has_time": true,
-  "start": "2026-11-02T23:59:00+09:00",
+  "start": null,
   "start_has_time": false,
-  "product": "ワンピカ ブースターパック「神の支配」【OP-18】1BOX 抽選",
+  "product": "ポケカ 拡張パック ハドウシーカー",
   "exclusive": false,
   "charge": false,
-  "store": "TierOne ティアワン渋谷",
+  "store": "トレカプラザ55通販店",
+  "kind": "抽選",
+  "receipt": "配送あり",
+  "cond": {
+   "member": null,
+   "past": null,
+   "idv": null,
+   "other": []
+  },
+  "url": "https://docs.google.com/forms/d/e/1FAIpQLSeNdQItGyUMs7dhwBfG_MXHz3ytkmwhOmev9BPbJHIjDAjnBQ/viewform",
+  "platform": "Googleフォーム",
+  "path": "c/トレカプラザ55通販店/ポケカ-拡張パック-ハドウシーカー-268096"
+ },
+ {
+  "deadline": "2026-11-23T23:59:00+09:00",
+  "has_time": true,
+  "start": null,
+  "start_has_time": false,
+  "product": "ポケカ ハドウシーカー BOX購入権",
+  "exclusive": false,
+  "charge": false,
+  "store": "晴れる屋2",
   "kind": "抽選",
   "receipt": "店頭受取",
   "cond": {
    "member": null,
    "past": null,
-   "idv": "受取時にマイナンバーカード（応募内容と完全一致のもの）が必要",
+   "idv": null,
    "other": [
-    "1人（一家族）1回まで",
-    "当選連絡はX（DM）で届く（応募時にXアカウントを入力）",
-    "購入は店頭のみ・支払いは現金のみ"
+    "ポケモンカード プレイヤーズクラブのIDが必要"
    ]
   },
-  "url": "https://docs.google.com/forms/d/e/1FAIpQLScR4t-dWRtCdmJOoHI_piRBkYmGAvHdC2lzIHXWO4Fy-G60Fw/viewform",
-  "platform": "Googleフォーム",
-  "path": "c/tierone-ティアワン渋谷/ワンピカ-ブースターパック-神の支配-op-18-1box-抽選-857241",
-  "checked": "2026-11-15",
-  "vstatus": "ok",
-  "vreason": ""
+  "url": "https://livepocket.jp/e/wfku9",
+  "platform": "LivePocket",
+  "path": "c/晴れる屋2/ポケカ-ハドウシーカー-box購入権-4a6786"
  },
  {
   "deadline": "2026-11-29T23:59:00+09:00",

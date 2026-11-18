@@ -1053,6 +1053,27 @@
   "charge": false,
   "last_seen": "2026-11-06"
  },
+ "c/トレカプラザ55通販店/ポケカ-拡張パック-ハドウシーカー-268096": {
+  "product": "ポケカ 拡張パック ハドウシーカー",
+  "store": "トレカプラザ55通販店",
+  "kind": "抽選",
+  "receipt": "配送あり",
+  "platform": "Googleフォーム",
+  "url": "https://docs.google.com/forms/d/e/1FAIpQLSeNdQItGyUMs7dhwBfG_MXHz3ytkmwhOmev9BPbJHIjDAjnBQ/viewform",
+  "has_time": true,
+  "deadline": "2026-11-22T23:59:00+09:00",
+  "start": null,
+  "start_has_time": false,
+  "exclusive": false,
+  "charge": false,
+  "cond": {
+   "member": null,
+   "past": null,
+   "idv": null,
+   "other": []
+  },
+  "last_seen": "2026-11-19"
+ },
  "c/トレカプラザ55通販店/ワンピカ-op-18-神の支配-1box-382a0b": {
   "product": "ワンピカ OP-18 神の支配 1BOX",
   "store": "トレカプラザ55通販店",
@@ -1508,7 +1529,7 @@
     "15歳以上"
    ]
   },
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "c/プレミアムバンダイ/ワンピカ-プレミアムカードコレクション-one-piece-day-26-3次予-613a2c": {
   "product": "ワンピカ プレミアムカードコレクション -ONE PIECE DAY'26-【3次予約】",
@@ -1821,6 +1842,29 @@
   "start": "2026-09-04T12:00:00+09:00",
   "store": "晴れる屋2",
   "url": "https://livepocket.jp/e/j2bxm"
+ },
+ "c/晴れる屋2/ポケカ-ハドウシーカー-box購入権-4a6786": {
+  "product": "ポケカ ハドウシーカー BOX購入権",
+  "store": "晴れる屋2",
+  "kind": "抽選",
+  "receipt": "店頭受取",
+  "platform": "LivePocket",
+  "url": "https://livepocket.jp/e/wfku9",
+  "has_time": true,
+  "deadline": "2026-11-23T23:59:00+09:00",
+  "start": null,
+  "start_has_time": false,
+  "exclusive": false,
+  "charge": false,
+  "cond": {
+   "member": null,
+   "past": null,
+   "idv": null,
+   "other": [
+    "ポケモンカード プレイヤーズクラブのIDが必要"
+   ]
+  },
+  "last_seen": "2026-11-19"
  },
  "c/楽天ブックス/楽天ブックス-期間限定販売5枠-813dbc": {
   "product": "楽天ブックス 期間限定販売5枠",
