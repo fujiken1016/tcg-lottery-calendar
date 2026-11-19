@@ -1072,7 +1072,7 @@
    "idv": null,
    "other": []
   },
-  "last_seen": "2026-11-19"
+  "last_seen": "2026-11-20"
  },
  "c/トレカプラザ55通販店/ワンピカ-op-18-神の支配-1box-382a0b": {
   "product": "ワンピカ OP-18 神の支配 1BOX",
@@ -1529,7 +1529,7 @@
     "15歳以上"
    ]
   },
-  "last_seen": "2026-11-19"
+  "last_seen": "2026-11-20"
  },
  "c/プレミアムバンダイ/ワンピカ-プレミアムカードコレクション-one-piece-day-26-3次予-613a2c": {
   "product": "ワンピカ プレミアムカードコレクション -ONE PIECE DAY'26-【3次予約】",
@@ -1747,6 +1747,27 @@
   "store": "古本市場 竹の塚店",
   "url": "https://livepocket.jp/e/3pls7"
  },
+ "c/店別/ワンピカ-ブースター-世界最強の戦士-op-17-再入荷-1box-37b0b2": {
+  "product": "ワンピカ ブースター 世界最強の戦士 OP-17 再入荷・1BOX",
+  "store": "店別",
+  "kind": "抽選",
+  "receipt": "店頭受取",
+  "platform": "LivePocket",
+  "url": "https://livepocket.jp/e/3z86r",
+  "has_time": true,
+  "deadline": "2026-11-22T23:59:00+09:00",
+  "start": null,
+  "start_has_time": false,
+  "exclusive": false,
+  "charge": false,
+  "cond": {
+   "member": null,
+   "past": null,
+   "idv": null,
+   "other": []
+  },
+  "last_seen": "2026-11-20"
+ },
  "c/応募先/ポケカ-3商品-2026-09-21-21-2x-に-livepocket-一次-93e2d8": {
   "product": "ポケカ 3商品＝2026/09/21 21:2x に LivePocket 一次実測で全部 確定＝①MEGA 拡張パック「30th CELEBRATION」…",
   "store": "応募先",
@@ -1864,7 +1885,7 @@
     "ポケモンカード プレイヤーズクラブのIDが必要"
    ]
   },
-  "last_seen": "2026-11-19"
+  "last_seen": "2026-11-20"
  },
  "c/楽天ブックス/楽天ブックス-期間限定販売5枠-813dbc": {
   "product": "楽天ブックス 期間限定販売5枠",
